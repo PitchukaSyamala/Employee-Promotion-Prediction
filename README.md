@@ -1,42 +1,33 @@
-# 🚀 Employee Promotion Prediction – Streamlit App
+# 🚀 Employee Promotion Prediction – Flask Web App
 
-A machine learning-powered **Streamlit web application** that predicts whether an employee is likely to be **Promoted**, **Needs Review**, or **Not Promoted** based on their profile. This tool supports HR professionals by providing data-driven and unbiased promotion recommendations.
+A machine learning-based **Flask web application** that predicts whether an employee is likely to be **Promoted**, **Needs Review**, or **Not Promoted**. This tool assists HR departments in making more **data-driven and unbiased** decisions using historical employee data.
 
 ---
 
 ## 📄 Project Description
 
-Employee Promotion Prediction is an interactive app designed to assist HR departments in forecasting employee promotions. By analyzing attributes such as:
+The Employee Promotion Prediction app uses features like years of service, job satisfaction, education level, training hours, and performance ratings to predict an employee’s promotion status.
 
-- Years of experience
-- Job satisfaction
-- Number of projects
-- Training hours
-- Performance ratings
-- Education level
-- Overtime status
-
-...the model predicts the promotion outcome based on historical data.
-
-The app uses a **Logistic Regression model** trained on a labeled dataset. With its user-friendly Streamlit UI, HR managers can quickly input employee details and receive predictions instantly.
+Built with **Flask** and **scikit-learn**, it offers a lightweight, browser-accessible interface that runs locally through the terminal.
 
 ---
 
 ## 🎯 Objectives
 
-- ✅ Automate and enhance the employee promotion decision-making process  
-- ✅ Reduce bias and increase transparency in evaluations  
-- ✅ Provide a lightweight, web-based predictor using Streamlit
+- ✅ Automate and enhance employee promotion evaluations
+- ✅ Reduce bias and subjectivity in decision-making
+- ✅ Provide a browser-based interface using Flask
 
 ---
 
 ## 🧠 Key Features
 
-- 📈 **Logistic Regression Model**: Trained for multi-class prediction
-- 🔢 **Categorical Encoding**: Transforms values like education level and satisfaction into numerical form
-- 🧮 **Real-Time Prediction**: Instant results based on input attributes
-- 🖥️ **Streamlit UI**: Clean, easy-to-use interface — runs directly in the browser
-- 📁 **Model & Encoder Files**: Saved with `joblib` for reuse without retraining
+- 🤖 **Machine Learning Model** (Logistic Regression / KNN)
+- 🔤 **Categorical Encoding**: Converts strings to machine-readable formats
+- 🌐 **Flask Interface**: Simple HTML forms for input and output
+- 📊 **Real-Time Predictions**: Get results instantly in the browser
+- 💾 **Encoders & Model Saved**: Using `joblib` for fast reuse
+
 
 ---
 
