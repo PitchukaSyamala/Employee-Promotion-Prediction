@@ -1,0 +1,3001 @@
+Years at Company,Projects Completed,Job Satisfaction,Training Received,Manager Ratings,Overtime Hours,Education Level,Promotion Status
+7,9,Very Good,1,1,20,Bachelor's,0
+20,10,Bad,1,3,2,PhD,1
+15,10,Excellent,1,5,6,Master's,0
+11,1,Average,0,5,16,Master's,0
+8,6,Bad,1,1,11,PhD,0
+7,7,Good,0,2,8,Bachelor's,0
+19,8,Very Good,0,4,14,Bachelor's,1
+11,10,Bad,0,2,17,High School,2
+11,9,Average,0,2,20,Master's,0
+4,2,Good,0,1,12,High School,1
+8,10,Average,0,1,20,High School,1
+3,2,Average,0,1,7,PhD,0
+2,5,Good,0,1,13,PhD,2
+12,5,Average,0,5,7,High School,0
+6,6,Good,0,1,13,Master's,0
+2,3,Bad,1,5,6,PhD,1
+1,8,Good,1,5,11,High School,0
+12,1,Good,1,1,10,High School,1
+12,6,Very Good,0,3,10,High School,1
+17,4,Good,1,4,12,High School,0
+10,1,Good,1,2,17,High School,1
+16,7,Bad,1,5,1,High School,0
+15,9,Very Good,0,4,20,PhD,0
+15,4,Excellent,0,3,14,Master's,1
+19,4,Bad,0,2,19,High School,2
+12,6,Bad,0,2,17,Bachelor's,0
+20,3,Excellent,1,5,14,PhD,0
+3,6,Good,1,1,18,PhD,1
+5,7,Average,1,3,11,High School,1
+19,10,Very Good,1,5,12,PhD,1
+7,10,Average,0,3,10,High School,0
+9,3,Excellent,0,1,4,Master's,0
+7,7,Bad,0,1,0,Master's,0
+18,3,Bad,1,5,2,PhD,1
+4,2,Very Good,0,1,18,PhD,0
+14,10,Bad,0,4,6,Bachelor's,0
+18,4,Bad,1,2,11,PhD,2
+9,8,Very Good,1,5,14,Bachelor's,0
+2,9,Very Good,0,3,4,Master's,2
+20,7,Excellent,0,4,14,Master's,1
+15,1,Bad,0,5,7,High School,1
+7,3,Bad,0,1,9,Master's,0
+12,9,Excellent,0,1,15,Bachelor's,0
+8,1,Good,0,1,7,PhD,1
+15,9,Good,1,1,0,High School,1
+3,8,Good,1,3,11,Bachelor's,1
+14,1,Excellent,1,4,4,PhD,0
+17,6,Bad,0,2,2,High School,1
+4,5,Excellent,1,3,0,Master's,1
+18,6,Excellent,0,3,3,Bachelor's,1
+8,10,Good,0,2,7,PhD,1
+4,5,Average,1,2,2,High School,1
+2,6,Bad,0,1,9,High School,1
+6,5,Good,0,3,1,Master's,0
+10,5,Average,1,5,10,PhD,0
+4,4,Average,1,2,9,Master's,0
+18,3,Very Good,1,2,20,Master's,0
+12,3,Bad,0,4,13,PhD,0
+2,4,Average,1,5,6,PhD,0
+10,9,Good,1,5,1,PhD,0
+4,2,Very Good,0,2,8,Bachelor's,0
+14,9,Bad,1,1,15,PhD,1
+16,1,Excellent,1,4,12,High School,2
+15,1,Good,1,5,8,Master's,0
+8,5,Average,0,2,19,Bachelor's,2
+14,6,Average,0,5,3,PhD,0
+8,6,Good,0,4,9,Bachelor's,0
+16,3,Average,0,4,11,PhD,0
+13,7,Very Good,1,3,16,Bachelor's,0
+18,9,Bad,0,2,13,Master's,1
+15,10,Very Good,0,4,13,Master's,1
+13,8,Average,1,3,1,High School,0
+9,6,Excellent,1,3,20,High School,0
+15,8,Bad,1,5,19,PhD,0
+13,5,Bad,0,5,10,Master's,0
+1,8,Good,0,3,15,Bachelor's,0
+7,10,Good,0,5,18,Bachelor's,0
+9,4,Excellent,1,4,5,Bachelor's,1
+1,10,Bad,1,1,18,High School,2
+12,8,Excellent,0,4,4,Bachelor's,0
+8,10,Good,1,3,3,High School,2
+11,2,Good,1,3,14,High School,0
+19,5,Bad,1,4,3,PhD,0
+17,9,Very Good,0,5,19,Bachelor's,0
+8,4,Average,1,5,9,Bachelor's,1
+3,6,Good,1,3,2,Master's,2
+3,1,Good,0,2,4,PhD,1
+1,9,Very Good,0,5,5,Master's,0
+5,1,Very Good,1,4,20,PhD,1
+10,5,Excellent,1,5,7,Bachelor's,0
+7,4,Excellent,0,4,6,High School,1
+9,3,Average,0,3,20,High School,0
+7,6,Average,1,5,9,High School,0
+9,2,Bad,1,4,5,High School,0
+8,3,Excellent,1,3,13,High School,1
+12,5,Good,1,2,3,Master's,0
+2,9,Excellent,0,4,12,PhD,1
+1,2,Good,1,2,19,Bachelor's,0
+16,10,Very Good,1,2,16,Master's,1
+5,8,Excellent,0,1,6,PhD,1
+3,2,Very Good,1,5,3,High School,1
+12,5,Average,0,4,13,PhD,0
+8,7,Average,1,2,2,PhD,0
+3,8,Bad,1,1,4,High School,0
+1,1,Excellent,0,3,15,High School,1
+3,6,Very Good,0,4,19,High School,0
+5,1,Good,1,2,3,Bachelor's,0
+15,2,Average,1,5,1,High School,0
+14,1,Average,1,1,17,Bachelor's,0
+3,5,Good,0,2,18,High School,1
+1,10,Very Good,1,5,18,Bachelor's,0
+5,9,Very Good,0,2,16,PhD,1
+14,6,Excellent,0,4,13,Master's,0
+7,1,Excellent,1,4,18,PhD,0
+9,1,Bad,0,4,12,PhD,0
+15,2,Average,1,1,11,High School,0
+15,9,Excellent,1,4,5,Bachelor's,0
+10,3,Very Good,1,5,20,Master's,1
+13,1,Good,1,2,3,High School,0
+19,5,Very Good,1,3,18,High School,1
+7,7,Average,0,5,15,High School,0
+17,6,Very Good,0,5,12,PhD,0
+20,1,Bad,1,4,3,Bachelor's,1
+4,5,Average,1,1,16,Bachelor's,0
+5,5,Good,0,2,0,Master's,0
+7,6,Bad,0,1,17,Bachelor's,0
+13,3,Average,0,2,19,Bachelor's,0
+15,5,Good,0,2,16,High School,1
+11,7,Bad,1,1,14,High School,0
+4,5,Bad,1,5,10,PhD,1
+13,5,Average,0,2,12,High School,1
+7,5,Excellent,1,1,0,High School,0
+19,10,Bad,0,2,16,High School,2
+2,10,Bad,1,3,5,High School,0
+10,3,Good,0,5,3,PhD,2
+13,1,Very Good,1,4,19,High School,0
+6,5,Average,0,2,15,Master's,1
+12,9,Average,0,3,14,Master's,0
+12,1,Excellent,1,4,14,Master's,0
+20,3,Excellent,0,4,5,Master's,1
+11,4,Average,1,2,14,High School,1
+7,1,Excellent,1,1,13,Master's,0
+1,1,Good,0,2,10,High School,0
+1,8,Average,1,3,6,PhD,1
+20,2,Excellent,1,4,8,Master's,1
+13,8,Average,1,2,15,Bachelor's,2
+9,7,Very Good,1,1,4,Master's,1
+3,10,Bad,1,2,19,Master's,2
+7,10,Average,0,5,9,High School,1
+6,2,Bad,1,1,17,Master's,0
+8,6,Excellent,1,3,2,Bachelor's,0
+9,6,Bad,1,4,12,High School,1
+5,3,Average,1,2,10,High School,1
+1,2,Very Good,1,1,16,PhD,0
+19,1,Excellent,0,5,12,PhD,0
+10,6,Average,1,1,5,Master's,2
+12,5,Excellent,0,5,16,PhD,0
+15,9,Good,0,3,12,PhD,0
+9,1,Bad,0,4,18,PhD,0
+20,7,Good,0,3,20,High School,0
+17,5,Average,1,2,18,High School,0
+17,5,Very Good,0,1,9,High School,0
+20,2,Excellent,0,5,2,PhD,0
+12,3,Bad,1,5,13,High School,1
+7,7,Excellent,1,1,18,PhD,0
+2,6,Average,1,1,4,High School,1
+3,2,Excellent,0,2,4,High School,1
+17,6,Bad,1,3,19,Bachelor's,0
+5,2,Average,1,5,16,Master's,1
+17,2,Excellent,0,2,20,PhD,0
+17,2,Very Good,1,3,9,Bachelor's,1
+17,3,Average,1,2,4,High School,0
+2,2,Average,1,5,3,PhD,1
+2,4,Very Good,1,1,5,High School,1
+5,9,Good,0,1,3,Master's,0
+1,6,Bad,1,3,6,Bachelor's,0
+1,1,Good,1,4,6,Master's,1
+19,8,Excellent,0,3,17,Bachelor's,1
+2,7,Very Good,1,4,2,High School,0
+12,10,Good,0,2,0,Master's,1
+6,3,Average,1,2,3,Master's,0
+4,1,Excellent,0,5,5,High School,1
+11,5,Excellent,0,4,8,Master's,0
+17,4,Good,0,5,13,PhD,1
+6,10,Good,0,1,11,Bachelor's,0
+5,8,Very Good,1,4,19,Bachelor's,0
+20,1,Bad,0,3,3,Bachelor's,0
+2,10,Good,1,1,20,PhD,0
+6,1,Good,0,1,11,Bachelor's,0
+11,4,Average,0,3,9,High School,0
+16,8,Excellent,0,1,6,Master's,1
+16,5,Bad,1,4,2,PhD,0
+1,2,Average,0,5,13,Bachelor's,0
+9,6,Very Good,1,1,9,High School,0
+6,5,Very Good,1,4,15,Master's,0
+16,2,Good,1,2,15,Master's,0
+3,3,Good,1,4,9,PhD,0
+20,9,Very Good,1,5,12,PhD,0
+4,7,Good,1,4,5,PhD,0
+19,7,Bad,1,3,11,High School,0
+3,6,Good,1,5,8,High School,0
+19,8,Excellent,1,2,12,PhD,0
+20,4,Good,0,3,3,Bachelor's,0
+7,8,Average,0,4,10,Master's,2
+20,4,Bad,0,5,19,Master's,0
+9,8,Average,0,2,17,High School,1
+1,9,Average,0,3,10,Master's,0
+8,3,Excellent,1,2,20,Bachelor's,1
+7,3,Bad,1,4,3,Master's,1
+18,2,Bad,1,2,17,High School,0
+8,10,Bad,1,1,0,High School,2
+1,3,Bad,1,3,6,Bachelor's,0
+11,3,Bad,1,2,5,Bachelor's,0
+18,5,Excellent,1,4,14,Master's,1
+10,5,Good,0,4,17,Master's,1
+3,2,Average,0,2,10,High School,0
+7,10,Bad,0,4,19,Bachelor's,0
+16,6,Good,0,5,14,Bachelor's,0
+16,5,Good,1,5,15,Bachelor's,0
+20,6,Average,1,5,6,Master's,1
+17,1,Excellent,1,1,20,Bachelor's,0
+2,5,Very Good,0,2,9,High School,0
+1,9,Very Good,1,1,11,High School,0
+16,10,Good,1,4,13,Master's,0
+12,2,Average,1,1,4,PhD,0
+5,1,Very Good,0,4,20,Master's,1
+5,10,Good,1,4,17,PhD,2
+9,9,Excellent,0,3,4,Bachelor's,1
+9,10,Very Good,0,5,2,Master's,0
+3,9,Good,0,4,4,High School,1
+19,9,Good,0,3,16,Bachelor's,1
+16,6,Bad,1,5,18,High School,1
+16,8,Excellent,0,4,18,Bachelor's,0
+3,1,Bad,0,4,20,Master's,0
+20,10,Average,1,1,11,PhD,0
+1,4,Bad,1,1,8,Bachelor's,0
+20,1,Bad,0,5,0,PhD,0
+11,8,Very Good,1,4,17,Bachelor's,0
+17,1,Good,0,2,20,High School,0
+8,3,Excellent,0,1,3,High School,1
+4,4,Bad,0,5,9,Bachelor's,0
+6,8,Excellent,0,4,6,PhD,0
+8,6,Bad,1,4,0,Master's,2
+20,10,Average,0,2,16,Master's,2
+3,7,Bad,1,5,1,High School,1
+16,8,Very Good,1,4,10,Master's,2
+3,2,Good,1,1,8,High School,0
+18,10,Average,1,2,6,Master's,2
+14,8,Bad,0,5,16,Bachelor's,0
+18,3,Excellent,1,2,16,High School,0
+2,7,Average,0,1,1,High School,0
+3,3,Average,1,5,5,Bachelor's,0
+16,7,Bad,1,2,13,High School,0
+9,2,Average,0,3,5,Master's,1
+4,10,Excellent,0,1,1,Master's,1
+1,6,Average,0,1,0,High School,0
+4,3,Excellent,1,1,9,Master's,0
+1,3,Bad,1,3,20,PhD,1
+14,9,Good,0,3,4,High School,1
+16,7,Average,0,4,1,Bachelor's,0
+20,5,Good,0,2,15,PhD,1
+8,10,Excellent,0,4,1,High School,0
+7,7,Average,1,2,9,Bachelor's,0
+3,9,Very Good,0,3,1,Master's,2
+17,1,Good,0,3,15,Bachelor's,0
+1,7,Average,0,4,15,PhD,0
+16,6,Good,0,5,18,Master's,1
+12,10,Average,1,4,6,High School,1
+19,9,Bad,0,2,11,Master's,0
+14,1,Good,1,4,14,High School,0
+6,4,Very Good,0,1,7,High School,0
+6,9,Very Good,0,2,5,Bachelor's,1
+13,4,Excellent,1,2,9,Bachelor's,0
+19,10,Average,0,5,2,Bachelor's,0
+8,3,Good,1,3,18,PhD,2
+2,9,Excellent,1,2,16,PhD,0
+1,2,Good,0,3,6,Bachelor's,0
+15,4,Average,1,4,20,PhD,0
+1,6,Very Good,1,1,19,Master's,1
+5,2,Bad,1,5,3,Master's,0
+16,8,Very Good,1,3,13,PhD,0
+19,8,Excellent,1,2,19,PhD,1
+4,1,Bad,1,3,14,Master's,0
+3,3,Excellent,1,2,7,High School,0
+17,10,Average,1,3,20,Master's,0
+17,9,Bad,0,2,14,Master's,0
+12,5,Excellent,0,4,19,PhD,0
+14,6,Average,1,2,13,Master's,0
+6,4,Very Good,0,2,8,PhD,0
+3,10,Average,1,1,7,PhD,0
+9,2,Good,1,2,16,Bachelor's,1
+5,8,Average,0,1,1,Master's,2
+17,6,Average,1,5,2,High School,1
+14,5,Good,1,1,7,Bachelor's,1
+3,9,Excellent,1,4,11,PhD,0
+1,1,Excellent,1,1,0,PhD,2
+20,5,Average,0,5,9,High School,0
+1,6,Good,1,4,19,PhD,2
+3,5,Good,1,3,2,Master's,2
+18,6,Very Good,1,3,5,Bachelor's,1
+10,6,Excellent,0,1,6,PhD,2
+3,7,Bad,1,1,19,PhD,0
+8,4,Excellent,0,5,17,High School,0
+14,8,Excellent,0,5,10,Master's,0
+18,7,Very Good,1,2,18,PhD,0
+15,9,Bad,1,5,4,High School,0
+2,7,Very Good,0,2,18,PhD,1
+10,3,Bad,1,4,10,High School,2
+2,3,Average,0,1,11,High School,0
+17,8,Bad,0,4,9,Master's,1
+8,5,Very Good,1,5,7,PhD,2
+1,4,Excellent,1,4,8,Master's,2
+9,8,Bad,0,4,3,High School,2
+11,6,Bad,0,4,4,Bachelor's,0
+16,2,Good,0,5,20,PhD,2
+7,4,Excellent,0,4,7,Bachelor's,1
+10,4,Average,1,2,8,PhD,0
+3,6,Very Good,1,5,14,Master's,0
+18,6,Average,1,4,14,Master's,1
+13,1,Excellent,1,5,15,Master's,0
+7,8,Bad,1,3,13,Master's,1
+4,6,Bad,0,2,7,Master's,1
+13,3,Excellent,1,4,17,Bachelor's,0
+20,9,Bad,1,3,9,Master's,0
+1,2,Bad,1,3,19,High School,1
+8,8,Bad,1,5,5,High School,0
+14,10,Very Good,1,3,11,Bachelor's,0
+16,3,Very Good,0,2,1,PhD,0
+14,5,Good,0,2,6,High School,0
+12,6,Average,0,1,15,PhD,2
+19,10,Excellent,1,2,2,Bachelor's,0
+15,6,Excellent,0,3,12,PhD,1
+2,4,Excellent,0,2,2,PhD,0
+2,3,Good,1,5,17,PhD,0
+19,4,Very Good,1,1,10,PhD,1
+17,1,Good,1,3,7,Bachelor's,1
+20,4,Excellent,0,1,5,High School,0
+10,1,Average,0,3,0,Master's,0
+6,1,Bad,1,5,0,PhD,0
+15,10,Very Good,1,1,7,High School,0
+11,6,Very Good,0,4,4,High School,1
+5,5,Good,0,3,15,Bachelor's,0
+1,4,Very Good,1,4,10,High School,0
+8,3,Excellent,1,1,4,Bachelor's,0
+12,1,Excellent,0,4,3,PhD,2
+12,6,Good,1,4,5,PhD,2
+5,2,Excellent,0,1,13,Master's,0
+7,8,Average,0,5,18,Master's,1
+4,10,Good,0,4,8,Master's,0
+6,5,Average,0,4,11,High School,0
+13,7,Bad,1,5,10,PhD,1
+20,10,Average,1,4,13,Bachelor's,2
+15,2,Bad,0,4,15,Master's,2
+3,8,Bad,0,4,0,Bachelor's,0
+8,2,Average,0,2,12,Bachelor's,0
+20,4,Good,0,5,20,Master's,1
+16,1,Excellent,0,4,20,PhD,0
+13,5,Excellent,1,5,12,Master's,0
+18,9,Bad,1,3,1,Bachelor's,0
+10,1,Bad,1,3,3,Master's,1
+19,9,Good,1,4,5,Bachelor's,0
+17,8,Very Good,0,5,4,Bachelor's,0
+19,6,Average,0,5,2,Master's,2
+5,7,Bad,0,5,0,High School,0
+9,3,Excellent,0,2,3,Master's,0
+12,1,Good,0,3,19,High School,0
+1,5,Average,1,5,1,Bachelor's,0
+1,2,Good,0,5,4,Bachelor's,0
+15,5,Average,1,2,2,High School,0
+2,8,Average,1,2,8,Bachelor's,1
+16,9,Bad,1,5,19,High School,0
+8,2,Good,1,1,5,High School,2
+13,3,Good,0,5,17,Bachelor's,0
+1,3,Excellent,1,5,5,PhD,0
+16,1,Excellent,1,2,18,High School,0
+7,8,Bad,1,2,11,Master's,0
+5,6,Bad,0,5,10,Master's,1
+3,8,Very Good,0,5,1,Bachelor's,0
+12,9,Excellent,0,5,14,PhD,0
+16,5,Average,1,2,11,Bachelor's,1
+19,3,Good,1,5,11,PhD,2
+5,5,Bad,0,5,8,High School,1
+14,5,Good,1,4,20,High School,0
+5,5,Good,0,1,1,High School,1
+15,3,Very Good,0,3,2,High School,0
+17,10,Excellent,1,1,11,Master's,0
+14,4,Bad,1,4,15,Master's,0
+20,9,Good,1,3,20,Bachelor's,0
+5,10,Bad,1,5,0,PhD,0
+12,9,Average,0,4,20,High School,0
+16,2,Very Good,0,5,2,High School,1
+16,8,Average,0,2,19,PhD,0
+7,8,Bad,0,4,1,PhD,0
+4,7,Bad,0,2,8,Bachelor's,0
+1,8,Excellent,1,4,18,PhD,2
+5,3,Good,0,4,14,High School,0
+10,6,Good,0,2,17,High School,0
+5,1,Average,0,3,10,High School,1
+4,7,Very Good,1,1,15,High School,1
+2,1,Good,1,5,16,High School,0
+20,9,Excellent,1,4,4,Bachelor's,1
+10,1,Average,1,5,11,High School,1
+19,1,Average,0,2,10,Bachelor's,1
+1,7,Excellent,0,5,14,High School,0
+5,2,Very Good,1,2,2,Master's,1
+13,5,Excellent,1,5,0,Master's,0
+4,8,Very Good,0,1,19,Master's,0
+16,8,Excellent,0,1,15,Master's,0
+16,3,Excellent,1,1,1,Bachelor's,0
+2,7,Bad,1,1,1,Bachelor's,0
+17,3,Average,1,1,2,PhD,1
+20,6,Excellent,1,1,7,High School,0
+12,6,Excellent,0,2,14,Master's,0
+18,3,Good,0,4,6,Bachelor's,0
+3,7,Average,0,5,5,High School,0
+1,3,Good,1,1,8,High School,2
+1,8,Average,1,2,19,Bachelor's,0
+19,10,Good,0,2,0,Master's,0
+11,4,Excellent,0,2,7,PhD,0
+5,1,Excellent,0,4,2,High School,0
+12,4,Bad,0,5,3,PhD,0
+3,7,Good,1,4,14,Master's,1
+1,4,Very Good,0,3,5,Master's,2
+1,6,Bad,0,2,14,PhD,0
+8,9,Good,0,3,20,Master's,1
+10,1,Good,0,1,2,High School,1
+11,5,Bad,0,1,20,PhD,1
+12,7,Excellent,0,4,20,Master's,0
+13,1,Good,0,5,13,PhD,0
+12,4,Excellent,1,3,19,High School,0
+14,6,Bad,1,5,13,Master's,1
+2,2,Excellent,1,4,3,High School,1
+19,10,Average,1,1,11,Master's,0
+18,5,Very Good,0,5,16,Bachelor's,0
+3,10,Good,1,5,6,Master's,2
+17,1,Very Good,1,1,8,PhD,1
+8,6,Excellent,0,3,2,Master's,2
+10,6,Good,0,1,12,High School,1
+2,4,Excellent,1,5,14,High School,0
+19,8,Average,1,3,17,Master's,0
+9,4,Bad,0,3,18,PhD,1
+7,8,Good,1,1,0,Bachelor's,0
+4,8,Average,0,5,5,PhD,0
+18,5,Average,0,4,1,Bachelor's,1
+13,4,Good,0,5,13,High School,0
+11,2,Excellent,0,2,5,PhD,1
+4,3,Average,1,4,13,Bachelor's,0
+4,3,Very Good,0,3,3,Master's,2
+10,4,Average,0,4,20,High School,0
+5,4,Excellent,1,3,7,Master's,0
+9,10,Excellent,0,3,2,High School,1
+3,5,Very Good,1,4,18,PhD,0
+17,4,Average,1,3,13,PhD,1
+3,10,Excellent,1,3,19,High School,1
+16,8,Good,0,2,16,High School,0
+4,6,Bad,1,5,7,High School,0
+18,6,Bad,1,5,13,PhD,0
+17,8,Bad,0,2,5,Bachelor's,0
+7,7,Average,1,4,15,Master's,2
+5,10,Very Good,1,1,18,Master's,1
+12,10,Excellent,1,1,13,PhD,1
+17,8,Good,1,1,18,Master's,1
+13,2,Good,1,2,2,High School,0
+3,9,Average,0,2,9,Bachelor's,2
+9,1,Bad,1,3,18,Master's,1
+17,8,Average,1,1,8,Bachelor's,1
+17,4,Very Good,0,4,19,High School,1
+20,4,Very Good,0,4,12,Master's,0
+16,5,Excellent,0,1,6,PhD,1
+13,8,Excellent,1,1,13,Bachelor's,0
+19,5,Very Good,0,1,8,High School,0
+17,8,Very Good,1,2,18,Bachelor's,0
+4,10,Very Good,1,2,14,Master's,2
+12,1,Average,0,2,19,Master's,1
+9,10,Very Good,0,5,13,PhD,1
+19,9,Good,1,4,5,High School,1
+12,6,Bad,0,4,20,High School,0
+9,3,Very Good,1,3,3,PhD,2
+7,8,Bad,0,2,7,PhD,0
+14,9,Average,0,5,16,High School,0
+20,6,Bad,0,5,8,Bachelor's,0
+19,7,Average,1,4,0,Bachelor's,1
+15,1,Good,0,2,19,PhD,1
+16,5,Average,1,3,13,Bachelor's,0
+5,5,Average,1,2,10,High School,0
+3,10,Excellent,1,1,20,Master's,1
+12,4,Very Good,1,2,2,Master's,0
+20,6,Very Good,0,1,8,Bachelor's,1
+4,7,Good,1,1,13,PhD,2
+16,9,Good,1,3,8,PhD,0
+7,1,Very Good,0,4,3,PhD,0
+13,6,Excellent,1,2,3,PhD,1
+10,7,Very Good,0,1,7,PhD,1
+7,3,Excellent,1,2,1,Bachelor's,0
+14,8,Good,0,4,8,Master's,2
+5,5,Bad,1,4,13,Master's,0
+3,9,Good,0,5,8,Bachelor's,0
+11,5,Good,1,4,15,PhD,1
+11,9,Average,1,3,16,Bachelor's,1
+18,10,Average,0,1,15,Master's,0
+8,10,Very Good,1,1,21,Bachelor's,0
+22,8,Bad,1,3,2,PhD,1
+15,12,Excellent,1,5,1,Master's,0
+13,1,Average,1,5,21,Master's,0
+10,6,Bad,1,1,14,PhD,0
+6,5,Good,0,2,11,Bachelor's,0
+19,9,Very Good,1,4,10,Bachelor's,1
+11,11,Bad,0,3,14,High School,2
+11,11,Average,1,3,19,Master's,0
+6,0,Good,0,1,11,High School,1
+9,10,Average,1,1,15,High School,1
+3,3,Average,0,1,9,PhD,0
+4,3,Good,1,2,15,PhD,2
+11,6,Average,0,5,5,High School,0
+7,7,Good,1,2,14,Master's,0
+1,3,Bad,0,5,11,PhD,1
+2,7,Good,1,4,15,High School,0
+14,3,Good,0,1,7,High School,1
+10,8,Very Good,0,2,10,High School,1
+18,4,Good,1,3,16,High School,0
+9,2,Good,1,2,21,High School,1
+18,5,Bad,0,4,4,High School,0
+16,10,Very Good,1,3,15,PhD,0
+13,4,Excellent,0,4,13,Master's,1
+17,6,Bad,0,1,17,High School,2
+12,7,Bad,0,2,19,Bachelor's,0
+20,5,Excellent,1,5,19,PhD,0
+2,4,Good,0,1,13,PhD,1
+6,9,Average,0,4,14,High School,1
+20,12,Very Good,1,5,12,PhD,1
+7,9,Average,1,2,8,High School,0
+10,2,Excellent,1,1,7,Master's,0
+8,6,Bad,1,1,5,Master's,0
+16,5,Bad,0,4,1,PhD,1
+4,2,Very Good,0,2,17,PhD,0
+16,12,Bad,0,3,5,Bachelor's,0
+18,4,Bad,0,2,6,PhD,2
+11,8,Very Good,1,5,9,Bachelor's,0
+0,8,Very Good,0,3,6,Master's,2
+19,8,Excellent,0,4,16,Master's,1
+16,0,Bad,1,5,7,High School,1
+5,2,Bad,0,1,14,Master's,0
+13,8,Excellent,0,1,13,Bachelor's,0
+7,2,Good,0,1,3,PhD,1
+14,7,Good,0,1,0,High School,1
+1,10,Good,0,3,14,Bachelor's,1
+13,3,Excellent,0,5,3,PhD,0
+19,5,Bad,1,1,0,High School,1
+3,3,Excellent,1,4,4,Master's,1
+19,5,Excellent,0,2,0,Bachelor's,1
+9,10,Good,0,1,8,PhD,1
+5,4,Average,1,3,0,High School,1
+3,5,Bad,0,1,9,High School,1
+8,7,Good,0,2,0,Master's,0
+10,7,Average,0,4,9,PhD,0
+2,6,Average,1,1,14,Master's,0
+19,3,Very Good,0,3,19,Master's,0
+11,5,Bad,1,4,8,PhD,0
+3,2,Average,0,5,1,PhD,0
+9,10,Good,1,5,0,PhD,0
+3,0,Very Good,1,2,12,Bachelor's,0
+15,7,Bad,0,2,13,PhD,1
+18,3,Excellent,1,4,11,High School,2
+14,2,Good,0,4,4,Master's,0
+7,6,Average,1,2,21,Bachelor's,2
+15,7,Average,0,4,8,PhD,0
+7,6,Good,0,5,14,Bachelor's,0
+15,5,Average,1,5,7,PhD,0
+14,8,Very Good,0,2,19,Bachelor's,0
+19,9,Bad,0,3,9,Master's,1
+13,9,Very Good,1,4,16,Master's,1
+15,7,Average,0,2,2,High School,0
+11,6,Excellent,0,4,22,High School,0
+14,8,Bad,1,4,24,PhD,0
+15,7,Bad,1,5,6,Master's,0
+0,10,Good,0,3,16,Bachelor's,0
+5,9,Good,0,5,18,Bachelor's,0
+10,5,Excellent,1,4,3,Bachelor's,1
+2,9,Bad,1,1,19,High School,2
+13,9,Excellent,0,4,2,Bachelor's,0
+10,11,Good,1,2,0,High School,2
+9,4,Good,0,2,18,High School,0
+21,3,Bad,0,4,4,PhD,0
+19,7,Very Good,0,5,21,Bachelor's,0
+6,4,Average,0,5,5,Bachelor's,1
+1,8,Good,0,2,1,Master's,2
+1,2,Good,1,1,0,PhD,1
+0,7,Very Good,1,5,6,Master's,0
+6,2,Very Good,1,5,22,PhD,1
+10,3,Excellent,1,5,7,Bachelor's,0
+7,2,Excellent,0,3,5,High School,1
+7,1,Average,0,2,20,High School,0
+7,8,Average,0,5,5,High School,0
+9,1,Bad,0,4,0,High School,0
+6,4,Excellent,1,2,14,High School,1
+12,7,Good,0,1,4,Master's,0
+4,11,Excellent,0,5,16,PhD,1
+0,4,Good,1,2,24,Bachelor's,0
+15,12,Very Good,1,3,20,Master's,1
+3,10,Excellent,1,1,2,PhD,1
+4,2,Very Good,1,5,0,High School,1
+10,6,Average,0,4,8,PhD,0
+9,9,Average,0,1,6,PhD,0
+2,9,Bad,1,2,6,High School,0
+0,1,Excellent,0,4,17,High School,1
+5,6,Very Good,0,4,14,High School,0
+5,2,Good,0,1,8,Bachelor's,0
+16,0,Average,1,4,3,High School,0
+14,0,Average,0,2,20,Bachelor's,0
+3,3,Good,1,1,16,High School,1
+0,8,Very Good,0,4,13,Bachelor's,0
+5,7,Very Good,0,2,11,PhD,1
+16,8,Excellent,0,3,10,Master's,0
+7,1,Excellent,1,4,17,PhD,0
+7,0,Bad,0,5,11,PhD,0
+17,2,Average,1,1,14,High School,0
+14,10,Excellent,1,5,9,Bachelor's,0
+10,2,Very Good,1,5,16,Master's,1
+11,2,Good,0,1,0,High School,0
+18,6,Very Good,0,2,18,High School,1
+6,9,Average,0,5,18,High School,0
+18,5,Very Good,0,4,7,PhD,0
+22,2,Bad,1,4,6,Bachelor's,1
+4,6,Average,1,1,19,Bachelor's,0
+3,4,Good,1,1,3,Master's,0
+8,5,Bad,0,2,16,Bachelor's,0
+15,4,Average,1,1,22,Bachelor's,0
+16,4,Good,0,1,21,High School,1
+13,8,Bad,1,2,12,High School,0
+6,6,Bad,0,5,6,PhD,1
+13,7,Average,0,2,12,High School,1
+9,3,Excellent,1,2,0,High School,0
+20,11,Bad,1,2,16,High School,2
+4,10,Bad,1,4,2,High School,0
+10,1,Good,1,4,3,PhD,2
+13,0,Very Good,0,4,15,High School,0
+7,3,Average,1,2,11,Master's,1
+11,11,Average,1,3,17,Master's,0
+11,2,Excellent,1,3,15,Master's,0
+22,5,Excellent,0,3,2,Master's,1
+9,5,Average,0,1,19,High School,1
+9,3,Excellent,1,1,8,Master's,0
+2,3,Good,0,1,12,High School,0
+2,8,Average,1,3,6,PhD,1
+21,4,Excellent,0,3,9,Master's,1
+14,7,Average,0,2,18,Bachelor's,2
+10,7,Very Good,0,1,3,Master's,1
+3,12,Bad,0,3,14,Master's,2
+6,8,Average,1,5,13,High School,1
+7,1,Bad,1,2,18,Master's,0
+6,5,Excellent,1,3,1,Bachelor's,0
+7,5,Bad,0,5,9,High School,1
+3,3,Average,1,1,13,High School,1
+0,4,Very Good,1,1,11,PhD,0
+19,3,Excellent,1,4,7,PhD,0
+8,4,Average,0,1,0,Master's,2
+13,3,Excellent,0,5,13,PhD,0
+17,8,Good,0,2,12,PhD,0
+7,0,Bad,1,5,22,PhD,0
+20,7,Good,1,4,25,High School,0
+17,7,Average,1,1,15,High School,0
+15,4,Very Good,0,1,11,High School,0
+22,0,Excellent,0,5,6,PhD,0
+10,3,Bad,1,4,9,High School,1
+7,7,Excellent,0,1,21,PhD,0
+1,4,Average,0,1,1,High School,1
+4,4,Excellent,0,2,3,High School,1
+17,4,Bad,0,4,23,Bachelor's,0
+3,1,Average,1,5,18,Master's,1
+18,0,Excellent,0,2,16,PhD,0
+15,2,Very Good,0,4,9,Bachelor's,1
+15,1,Average,0,1,3,High School,0
+1,4,Average,0,5,7,PhD,1
+3,5,Very Good,1,1,8,High School,1
+6,7,Good,1,1,2,Master's,0
+0,8,Bad,0,2,2,Bachelor's,0
+1,3,Good,0,5,5,Master's,1
+17,8,Excellent,0,4,15,Bachelor's,1
+4,9,Very Good,0,5,7,High School,0
+10,12,Good,0,2,1,Master's,1
+4,5,Average,0,2,3,Master's,0
+4,3,Excellent,1,5,1,High School,1
+9,4,Excellent,0,3,13,Master's,0
+16,3,Good,1,5,18,PhD,1
+5,10,Good,1,2,10,Bachelor's,0
+6,6,Very Good,0,5,20,Bachelor's,0
+22,3,Bad,1,3,8,Bachelor's,0
+0,8,Good,1,1,21,PhD,0
+4,0,Good,1,1,10,Bachelor's,0
+11,4,Average,1,2,12,High School,0
+15,10,Excellent,1,1,4,Master's,1
+18,7,Bad,1,5,7,PhD,0
+2,3,Average,0,5,10,Bachelor's,0
+8,4,Very Good,1,1,7,High School,0
+7,3,Very Good,1,4,14,Master's,0
+16,1,Good,1,3,15,Master's,0
+3,4,Good,0,3,6,PhD,0
+18,8,Very Good,1,4,8,PhD,0
+6,6,Good,0,3,3,PhD,0
+20,6,Bad,1,4,10,High School,0
+2,6,Good,0,5,6,High School,0
+19,8,Excellent,0,1,17,PhD,0
+18,3,Good,1,4,0,Bachelor's,0
+5,9,Average,1,4,12,Master's,2
+21,2,Bad,0,5,23,Master's,0
+9,9,Average,1,2,15,High School,1
+3,11,Average,0,4,6,Master's,0
+8,3,Excellent,0,2,16,Bachelor's,1
+8,1,Bad,0,3,0,Master's,1
+19,0,Bad,0,2,15,High School,0
+8,12,Bad,0,2,4,High School,2
+2,5,Bad,1,4,9,Bachelor's,0
+11,2,Bad,0,2,10,Bachelor's,0
+17,5,Excellent,0,3,15,Master's,1
+10,5,Good,1,3,21,Master's,1
+3,3,Average,0,2,11,High School,0
+8,9,Bad,1,4,20,Bachelor's,0
+17,5,Good,1,5,16,Bachelor's,0
+14,4,Good,1,4,10,Bachelor's,0
+18,5,Average,0,5,10,Master's,1
+16,1,Excellent,0,1,24,Bachelor's,0
+0,5,Very Good,0,2,11,High School,0
+1,8,Very Good,1,1,9,High School,0
+17,11,Good,0,3,11,Master's,0
+10,0,Average,1,1,2,PhD,0
+3,0,Very Good,0,4,20,Master's,1
+4,11,Good,1,5,18,PhD,2
+8,8,Excellent,0,3,4,Bachelor's,1
+9,10,Very Good,0,5,0,Master's,0
+4,7,Good,0,4,6,High School,1
+18,11,Good,1,4,20,Bachelor's,1
+14,8,Bad,1,4,23,High School,1
+17,9,Excellent,0,5,19,Bachelor's,0
+4,0,Bad,0,5,20,Master's,0
+18,8,Average,1,1,11,PhD,0
+0,3,Bad,1,2,7,Bachelor's,0
+18,0,Bad,1,4,0,PhD,0
+12,9,Very Good,0,5,20,Bachelor's,0
+19,2,Good,1,1,24,High School,0
+10,5,Excellent,0,1,6,High School,1
+4,3,Bad,1,5,13,Bachelor's,0
+4,10,Excellent,0,5,8,PhD,0
+6,5,Bad,1,5,4,Master's,2
+20,12,Average,1,3,19,Master's,2
+3,7,Bad,1,5,5,High School,1
+16,8,Very Good,1,5,12,Master's,2
+4,2,Good,1,1,10,High School,0
+16,10,Average,0,2,1,Master's,2
+15,6,Bad,1,5,20,Bachelor's,0
+18,3,Excellent,1,2,21,High School,0
+0,8,Average,1,1,0,High School,0
+4,4,Average,0,4,3,Bachelor's,0
+17,5,Bad,1,3,9,High School,0
+9,2,Average,0,2,7,Master's,1
+2,10,Excellent,1,1,0,Master's,1
+1,6,Average,1,2,0,High School,0
+2,5,Excellent,0,2,10,Master's,0
+3,2,Bad,1,4,24,PhD,1
+13,11,Good,0,2,7,High School,1
+15,6,Average,0,3,0,Bachelor's,0
+19,5,Good,1,3,12,PhD,1
+8,10,Excellent,0,4,0,High School,0
+9,9,Average,1,3,13,Bachelor's,0
+1,11,Very Good,1,3,0,Master's,2
+18,0,Good,0,3,16,Bachelor's,0
+0,8,Average,0,5,11,PhD,0
+17,5,Good,0,5,17,Master's,1
+10,12,Average,0,5,1,High School,1
+21,11,Bad,1,1,8,Master's,0
+15,0,Good,1,4,10,High School,0
+6,6,Very Good,0,1,2,High School,0
+4,7,Very Good,1,1,6,Bachelor's,1
+11,5,Excellent,1,3,8,Bachelor's,0
+20,9,Average,1,4,0,Bachelor's,0
+8,2,Good,1,4,18,PhD,2
+2,7,Excellent,0,2,15,PhD,0
+3,1,Good,0,4,3,Bachelor's,0
+15,6,Average,1,3,21,PhD,0
+1,6,Very Good,0,1,24,Master's,1
+5,0,Bad,0,5,7,Master's,0
+15,7,Very Good,0,4,16,PhD,0
+21,6,Excellent,1,1,22,PhD,1
+2,0,Bad,1,3,17,Master's,0
+4,3,Excellent,1,2,3,High School,0
+15,12,Average,0,4,17,Master's,0
+19,7,Bad,1,2,15,Master's,0
+13,4,Excellent,1,3,18,PhD,0
+16,7,Average,0,3,9,Master's,0
+6,2,Very Good,1,1,5,PhD,0
+4,8,Average,1,1,11,PhD,0
+9,2,Good,0,2,16,Bachelor's,1
+3,10,Average,0,2,2,Master's,2
+15,7,Average,0,5,5,High School,1
+15,4,Good,1,1,2,Bachelor's,1
+4,10,Excellent,1,3,16,PhD,0
+3,0,Excellent,1,1,1,PhD,2
+22,7,Average,0,4,11,High School,0
+1,5,Good,0,3,16,PhD,2
+4,5,Good,1,4,0,Master's,2
+16,6,Very Good,1,4,9,Bachelor's,1
+12,6,Excellent,0,1,6,PhD,2
+5,7,Bad,0,1,23,PhD,0
+6,5,Excellent,0,5,18,High School,0
+16,10,Excellent,0,5,8,Master's,0
+18,6,Very Good,1,1,20,PhD,0
+16,8,Bad,0,4,3,High School,0
+0,7,Very Good,1,2,13,PhD,1
+11,3,Bad,1,5,8,High School,2
+4,1,Average,1,1,8,High School,0
+19,10,Bad,0,5,12,Master's,1
+6,6,Very Good,0,4,9,PhD,2
+1,3,Excellent,0,4,3,Master's,2
+8,6,Bad,0,4,8,High School,2
+9,4,Bad,1,5,4,Bachelor's,0
+15,1,Good,0,4,23,PhD,2
+6,5,Excellent,0,4,8,Bachelor's,1
+10,2,Average,1,1,6,PhD,0
+2,4,Very Good,0,5,9,Master's,0
+17,8,Average,1,3,10,Master's,1
+13,2,Excellent,1,5,14,Master's,0
+6,6,Bad,1,3,18,Master's,1
+3,7,Bad,1,2,6,Master's,1
+12,2,Excellent,1,3,19,Bachelor's,0
+18,9,Bad,1,2,9,Master's,0
+0,0,Bad,1,3,21,High School,1
+6,10,Bad,1,5,1,High School,0
+14,9,Very Good,0,2,8,Bachelor's,0
+18,4,Very Good,0,1,1,PhD,0
+13,4,Good,0,1,10,High School,0
+11,4,Average,0,1,12,PhD,2
+19,11,Excellent,1,2,2,Bachelor's,0
+14,6,Excellent,0,3,12,PhD,1
+0,3,Excellent,1,2,0,PhD,0
+4,1,Good,0,5,18,PhD,0
+20,6,Very Good,0,2,6,PhD,1
+16,2,Good,0,3,7,Bachelor's,1
+18,3,Excellent,1,2,0,High School,0
+11,0,Average,0,2,0,Master's,0
+8,1,Bad,1,4,0,PhD,0
+16,10,Very Good,1,1,8,High School,0
+9,8,Very Good,0,4,2,High School,1
+6,7,Good,0,2,17,Bachelor's,0
+1,2,Very Good,0,5,10,High School,0
+9,1,Excellent,1,1,8,Bachelor's,0
+11,3,Excellent,0,5,1,PhD,2
+11,8,Good,1,3,4,PhD,2
+5,3,Excellent,1,1,16,Master's,0
+5,8,Average,0,4,19,Master's,1
+3,8,Good,0,4,12,Master's,0
+8,5,Average,1,5,14,High School,0
+12,7,Bad,1,5,11,PhD,1
+19,12,Average,1,4,8,Bachelor's,2
+13,3,Bad,0,3,17,Master's,2
+4,7,Bad,1,4,0,Bachelor's,0
+7,3,Average,0,2,9,Bachelor's,0
+20,5,Good,1,4,21,Master's,1
+17,1,Excellent,1,4,17,PhD,0
+15,6,Excellent,0,4,14,Master's,0
+16,7,Bad,1,2,1,Bachelor's,0
+12,1,Bad,0,2,2,Master's,1
+20,7,Good,0,3,3,Bachelor's,0
+18,7,Very Good,1,5,6,Bachelor's,0
+20,6,Average,0,4,4,Master's,2
+7,6,Bad,0,4,0,High School,0
+10,3,Excellent,1,2,6,Master's,0
+14,3,Good,0,3,18,High School,0
+2,6,Average,0,5,0,Bachelor's,0
+1,4,Good,0,5,4,Bachelor's,0
+16,4,Average,1,2,2,High School,0
+4,9,Average,0,3,4,Bachelor's,1
+15,9,Bad,1,5,21,High School,0
+9,3,Good,1,1,6,High School,2
+12,1,Good,0,5,12,Bachelor's,0
+1,4,Excellent,0,5,4,PhD,0
+14,0,Excellent,0,3,18,High School,0
+7,9,Bad,1,2,9,Master's,0
+6,4,Bad,0,5,6,Master's,1
+2,7,Very Good,0,5,0,Bachelor's,0
+11,11,Excellent,0,4,9,PhD,0
+18,5,Average,0,3,12,Bachelor's,1
+18,4,Good,0,4,7,PhD,2
+7,7,Bad,1,5,4,High School,1
+12,5,Good,1,5,23,High School,0
+6,5,Good,0,1,0,High School,1
+17,1,Very Good,0,2,0,High School,0
+15,9,Excellent,0,1,16,Master's,0
+13,3,Bad,0,3,18,Master's,0
+19,11,Good,1,4,23,Bachelor's,0
+3,9,Bad,0,5,0,PhD,0
+11,10,Average,1,3,25,High School,0
+14,1,Very Good,1,5,0,High School,1
+18,10,Average,0,2,17,PhD,0
+9,7,Bad,1,4,2,PhD,0
+2,8,Bad,1,2,12,Bachelor's,0
+3,6,Excellent,1,5,16,PhD,2
+7,5,Good,1,5,10,High School,0
+12,4,Good,0,3,18,High School,0
+5,0,Average,0,4,10,High School,1
+5,5,Very Good,1,2,12,High School,1
+1,1,Good,0,5,16,High School,0
+20,9,Excellent,0,4,9,Bachelor's,1
+12,0,Average,0,5,11,High School,1
+17,3,Average,0,2,9,Bachelor's,1
+3,8,Excellent,0,5,12,High School,0
+6,3,Very Good,1,3,6,Master's,1
+15,4,Excellent,0,5,0,Master's,0
+2,10,Very Good,0,1,23,Master's,0
+17,8,Excellent,0,1,15,Master's,0
+18,1,Excellent,0,1,0,Bachelor's,0
+3,6,Bad,1,2,0,Bachelor's,0
+16,4,Average,1,1,4,PhD,1
+19,6,Excellent,1,1,11,High School,0
+14,6,Excellent,1,3,14,Master's,0
+19,1,Good,0,3,3,Bachelor's,0
+1,8,Average,1,4,6,High School,0
+3,5,Good,0,1,6,High School,2
+0,8,Average,0,3,22,Bachelor's,0
+18,8,Good,0,2,0,Master's,0
+13,6,Excellent,0,3,4,PhD,0
+6,2,Excellent,0,5,0,High School,0
+11,4,Bad,1,5,8,PhD,0
+4,9,Good,1,3,10,Master's,1
+0,6,Very Good,1,2,2,Master's,2
+0,8,Bad,1,3,10,PhD,0
+8,9,Good,0,2,18,Master's,1
+9,1,Good,1,2,0,High School,1
+9,4,Bad,0,2,24,PhD,1
+14,8,Excellent,1,4,23,Master's,0
+15,0,Good,0,5,9,PhD,0
+13,6,Excellent,0,3,22,High School,0
+13,5,Bad,1,5,13,Master's,1
+0,0,Excellent,0,4,0,High School,1
+20,9,Average,0,1,9,Master's,0
+18,5,Very Good,1,4,11,Bachelor's,0
+4,12,Good,0,5,6,Master's,2
+18,0,Very Good,1,2,6,PhD,1
+7,4,Excellent,1,3,0,Master's,2
+10,4,Good,1,2,9,High School,1
+3,2,Excellent,0,5,17,High School,0
+17,6,Average,0,2,17,Master's,0
+7,3,Bad,0,2,21,PhD,1
+9,10,Good,1,1,0,Bachelor's,0
+4,8,Average,0,5,1,PhD,0
+18,5,Average,1,5,3,Bachelor's,1
+15,4,Good,1,4,12,High School,0
+12,2,Excellent,0,3,1,PhD,1
+4,2,Average,1,3,11,Bachelor's,0
+2,4,Very Good,0,3,6,Master's,2
+8,6,Average,0,3,18,High School,0
+4,2,Excellent,0,4,5,Master's,0
+9,11,Excellent,0,3,0,High School,1
+4,5,Very Good,0,3,18,PhD,0
+19,5,Average,1,2,18,PhD,1
+5,12,Excellent,1,3,15,High School,1
+17,6,Good,1,2,17,High School,0
+3,4,Bad,0,4,4,High School,0
+20,8,Bad,0,5,10,PhD,0
+17,10,Bad,0,1,4,Bachelor's,0
+6,7,Average,1,4,12,Master's,2
+5,8,Very Good,0,1,14,Master's,1
+10,11,Excellent,1,1,17,PhD,1
+16,7,Good,1,1,21,Master's,1
+15,1,Good,0,3,0,High School,0
+2,11,Average,0,2,14,Bachelor's,2
+8,1,Bad,1,3,14,Master's,1
+16,7,Average,0,2,10,Bachelor's,1
+16,2,Very Good,1,4,22,High School,1
+20,6,Very Good,0,5,13,Master's,0
+14,6,Excellent,0,2,3,PhD,1
+14,10,Excellent,1,1,16,Bachelor's,0
+18,6,Very Good,0,1,5,High School,0
+19,10,Very Good,1,1,17,Bachelor's,0
+3,12,Very Good,0,3,17,Master's,2
+14,3,Average,1,1,16,Master's,1
+9,11,Very Good,1,5,14,PhD,1
+21,10,Good,0,3,0,High School,1
+13,8,Bad,1,5,18,High School,0
+7,2,Very Good,0,2,1,PhD,2
+9,8,Bad,0,3,8,PhD,0
+16,9,Average,0,5,18,High School,0
+18,6,Bad,1,5,3,Bachelor's,0
+20,8,Average,1,5,0,Bachelor's,1
+14,2,Good,0,2,20,PhD,1
+18,4,Average,0,3,11,Bachelor's,0
+3,5,Average,1,2,8,High School,0
+3,10,Excellent,0,1,18,Master's,1
+10,6,Very Good,0,3,2,Master's,0
+20,7,Very Good,1,1,9,Bachelor's,1
+5,7,Good,0,1,9,PhD,2
+15,8,Good,1,3,7,PhD,0
+5,0,Very Good,0,3,1,PhD,0
+15,6,Excellent,1,1,0,PhD,1
+11,8,Very Good,0,1,8,PhD,1
+5,2,Excellent,0,2,6,Bachelor's,0
+16,10,Good,1,3,8,Master's,2
+3,4,Bad,0,5,14,Master's,0
+3,7,Good,1,5,7,Bachelor's,0
+9,3,Good,0,5,15,PhD,1
+9,10,Average,1,2,15,Bachelor's,1
+16,10,Average,1,1,16,Master's,0
+6,7,Very Good,1,1,18,Bachelor's,0
+20,10,Bad,0,4,4,PhD,1
+17,9,Excellent,1,4,7,Master's,0
+13,2,Average,0,5,11,Master's,0
+7,7,Bad,0,2,10,PhD,0
+6,5,Good,0,3,9,Bachelor's,0
+21,10,Very Good,1,4,12,Bachelor's,1
+9,9,Bad,0,1,12,High School,2
+13,9,Average,0,3,23,Master's,0
+6,3,Good,0,2,11,High School,1
+7,11,Average,0,1,25,High School,1
+2,1,Average,0,1,3,PhD,0
+4,7,Good,0,1,15,PhD,2
+14,6,Average,1,5,12,High School,0
+8,5,Good,1,1,9,Master's,0
+1,1,Bad,0,4,3,PhD,1
+3,10,Good,1,5,15,High School,0
+14,1,Good,1,2,5,High School,1
+13,7,Very Good,0,4,15,High School,1
+15,3,Good,0,5,8,High School,0
+10,0,Good,0,2,18,High School,1
+14,7,Bad,1,5,5,High School,0
+16,8,Very Good,0,4,16,PhD,0
+15,3,Excellent,1,3,14,Master's,1
+21,4,Bad,0,2,16,High School,2
+13,4,Bad,1,3,15,Bachelor's,0
+22,1,Excellent,0,4,19,PhD,0
+2,8,Good,0,2,20,PhD,1
+6,8,Average,1,2,8,High School,1
+18,10,Very Good,1,5,16,PhD,1
+8,10,Average,1,2,10,High School,0
+10,3,Excellent,1,2,0,Master's,0
+6,5,Bad,1,2,1,Master's,0
+18,4,Bad,1,4,4,PhD,1
+2,4,Very Good,0,1,23,PhD,0
+16,9,Bad,1,4,8,Bachelor's,0
+19,3,Bad,0,3,8,PhD,2
+11,8,Very Good,0,4,18,Bachelor's,0
+1,10,Very Good,1,3,0,Master's,2
+22,5,Excellent,0,4,17,Master's,1
+14,2,Bad,1,5,7,High School,1
+9,4,Bad,1,1,14,Master's,0
+10,7,Excellent,0,1,18,Bachelor's,0
+6,1,Good,0,2,8,PhD,1
+13,10,Good,1,2,0,High School,1
+1,7,Good,1,2,6,Bachelor's,1
+12,0,Excellent,0,5,4,PhD,0
+15,8,Bad,0,2,1,High School,1
+3,5,Excellent,0,3,3,Master's,1
+19,4,Excellent,0,2,0,Bachelor's,1
+10,12,Good,1,2,9,PhD,1
+2,7,Average,1,1,7,High School,1
+1,7,Bad,1,1,8,High School,1
+5,6,Good,1,3,0,Master's,0
+9,6,Average,0,4,14,PhD,0
+5,2,Average,0,2,14,Master's,0
+20,1,Very Good,1,3,25,Master's,0
+13,3,Bad,1,5,13,PhD,0
+2,5,Average,1,4,10,PhD,0
+9,11,Good,1,5,3,PhD,0
+4,1,Very Good,1,2,6,Bachelor's,0
+12,9,Bad,1,2,11,PhD,1
+14,0,Excellent,1,5,17,High School,2
+16,1,Good,1,5,7,Master's,0
+10,5,Average,1,1,15,Bachelor's,2
+14,6,Average,0,5,0,PhD,0
+10,6,Good,1,3,9,Bachelor's,0
+17,2,Average,0,3,16,PhD,0
+11,8,Very Good,0,4,20,Bachelor's,0
+20,11,Bad,1,1,16,Master's,1
+17,10,Very Good,1,3,11,Master's,1
+11,8,Average,0,3,1,High School,0
+9,6,Excellent,0,2,21,High School,0
+13,9,Bad,1,5,24,PhD,0
+15,3,Bad,0,5,10,Master's,0
+1,6,Good,1,4,17,Bachelor's,0
+7,9,Good,1,5,16,Bachelor's,0
+7,2,Excellent,1,5,0,Bachelor's,1
+3,10,Bad,0,1,19,High School,2
+13,8,Excellent,0,3,1,Bachelor's,0
+10,10,Good,1,2,3,High School,2
+10,1,Good,0,4,10,High School,0
+20,5,Bad,0,3,6,PhD,0
+17,7,Very Good,0,5,14,Bachelor's,0
+9,5,Average,0,4,9,Bachelor's,1
+3,7,Good,0,3,2,Master's,2
+3,3,Good,0,3,3,PhD,1
+2,7,Very Good,0,5,4,Master's,0
+5,1,Very Good,1,3,15,PhD,1
+10,6,Excellent,0,5,11,Bachelor's,0
+6,2,Excellent,0,5,5,High School,1
+11,4,Average,0,3,16,High School,0
+9,6,Average,0,5,10,High School,0
+8,3,Bad,0,3,2,High School,0
+9,5,Excellent,0,3,11,High School,1
+10,7,Good,0,1,0,Master's,0
+0,10,Excellent,0,3,9,PhD,1
+0,0,Good,1,1,17,Bachelor's,0
+15,8,Very Good,0,3,15,Master's,1
+4,6,Excellent,0,1,1,PhD,1
+3,3,Very Good,0,4,1,High School,1
+10,3,Average,0,4,18,PhD,0
+9,7,Average,1,1,4,PhD,0
+4,10,Bad,1,1,8,High School,0
+0,1,Excellent,1,3,16,High School,1
+1,4,Very Good,1,3,22,High School,0
+3,1,Good,1,3,2,Bachelor's,0
+14,0,Average,1,5,5,High School,0
+13,2,Average,1,2,15,Bachelor's,0
+2,5,Good,1,3,20,High School,1
+3,11,Very Good,1,4,21,Bachelor's,0
+6,10,Very Good,1,1,17,PhD,1
+15,5,Excellent,1,3,14,Master's,0
+7,0,Excellent,1,4,17,PhD,0
+8,3,Bad,1,3,10,PhD,0
+17,0,Average,1,1,15,High School,0
+17,11,Excellent,1,4,0,Bachelor's,0
+11,1,Very Good,1,5,24,Master's,1
+12,2,Good,0,1,7,High School,0
+19,5,Very Good,1,2,19,High School,1
+6,7,Average,0,4,10,High School,0
+15,5,Very Good,1,4,7,PhD,0
+19,3,Bad,1,5,2,Bachelor's,1
+2,7,Average,0,2,19,Bachelor's,0
+3,7,Good,1,1,0,Master's,0
+7,7,Bad,0,2,14,Bachelor's,0
+14,5,Average,0,2,16,Bachelor's,0
+14,5,Good,0,3,17,High School,1
+9,8,Bad,1,2,14,High School,0
+3,3,Bad,1,4,13,PhD,1
+14,7,Average,1,3,12,High School,1
+8,7,Excellent,0,2,0,High School,0
+21,8,Bad,0,3,20,High School,2
+3,12,Bad,1,4,6,High School,0
+10,1,Good,1,5,0,PhD,2
+11,2,Very Good,1,3,20,High School,0
+8,5,Average,1,1,12,Master's,1
+12,7,Average,1,3,17,Master's,0
+11,0,Excellent,0,5,14,Master's,0
+18,1,Excellent,0,4,8,Master's,1
+12,6,Average,0,3,13,High School,1
+5,2,Excellent,1,1,14,Master's,0
+0,2,Good,0,1,8,High School,0
+3,6,Average,0,2,7,PhD,1
+22,2,Excellent,0,3,3,Master's,1
+15,7,Average,0,3,16,Bachelor's,2
+10,8,Very Good,0,2,6,Master's,1
+3,12,Bad,1,2,18,Master's,2
+7,12,Average,0,5,5,High School,1
+4,2,Bad,1,1,16,Master's,0
+9,7,Excellent,1,4,2,Bachelor's,0
+11,4,Bad,1,4,8,High School,1
+7,5,Average,1,3,10,High School,1
+0,2,Very Good,1,2,16,PhD,0
+18,2,Excellent,0,4,7,PhD,0
+12,7,Average,0,1,0,Master's,2
+14,6,Excellent,1,5,21,PhD,0
+16,10,Good,1,4,16,PhD,0
+9,2,Bad,1,5,15,PhD,0
+19,9,Good,0,4,24,High School,0
+17,5,Average,1,1,22,High School,0
+18,6,Very Good,0,1,6,High School,0
+22,1,Excellent,1,4,0,PhD,0
+12,2,Bad,0,5,9,High School,1
+9,7,Excellent,1,2,21,PhD,0
+4,4,Average,0,1,8,High School,1
+1,0,Excellent,1,1,9,High School,1
+17,4,Bad,0,2,20,Bachelor's,0
+5,1,Average,0,5,17,Master's,1
+19,0,Excellent,0,1,20,PhD,0
+18,4,Very Good,0,4,6,Bachelor's,1
+15,4,Average,0,1,4,High School,0
+4,1,Average,0,4,5,PhD,1
+1,4,Very Good,0,2,7,High School,1
+4,9,Good,1,1,8,Master's,0
+0,7,Bad,1,2,9,Bachelor's,0
+2,0,Good,1,4,1,Master's,1
+21,6,Excellent,1,2,12,Bachelor's,1
+2,5,Very Good,1,3,0,High School,0
+10,12,Good,0,1,0,Master's,1
+7,5,Average,0,1,7,Master's,0
+4,0,Excellent,0,5,7,High School,1
+10,5,Excellent,0,4,12,Master's,0
+16,4,Good,0,4,8,PhD,1
+6,12,Good,1,1,7,Bachelor's,0
+3,9,Very Good,1,4,15,Bachelor's,0
+19,0,Bad,1,4,0,Bachelor's,0
+4,12,Good,1,2,20,PhD,0
+6,3,Good,0,1,6,Bachelor's,0
+11,2,Average,0,2,5,High School,0
+15,6,Excellent,0,1,1,Master's,1
+14,5,Bad,1,5,1,PhD,0
+3,3,Average,0,5,14,Bachelor's,0
+7,7,Very Good,1,1,11,High School,0
+7,3,Very Good,0,5,19,Master's,0
+17,1,Good,0,2,10,Master's,0
+2,5,Good,1,5,10,PhD,0
+19,11,Very Good,0,5,11,PhD,0
+3,5,Good,0,5,9,PhD,0
+20,6,Bad,1,2,6,High School,0
+1,6,Good,0,4,5,High School,0
+17,6,Excellent,1,1,13,PhD,0
+19,2,Good,0,4,7,Bachelor's,0
+9,10,Average,0,4,5,Master's,2
+18,2,Bad,0,5,20,Master's,0
+10,6,Average,0,2,16,High School,1
+1,7,Average,0,3,5,Master's,0
+8,5,Excellent,0,1,15,Bachelor's,1
+7,3,Bad,0,3,0,Master's,1
+20,2,Bad,0,3,22,High School,0
+7,8,Bad,1,2,3,High School,2
+2,5,Bad,1,3,11,Bachelor's,0
+13,3,Bad,0,1,2,Bachelor's,0
+19,5,Excellent,0,4,13,Master's,1
+11,5,Good,1,5,22,Master's,1
+2,4,Average,0,3,14,High School,0
+7,12,Bad,0,4,22,Bachelor's,0
+15,4,Good,1,5,14,Bachelor's,0
+18,6,Good,0,5,18,Bachelor's,0
+22,6,Average,0,4,8,Master's,1
+19,2,Excellent,1,1,22,Bachelor's,0
+1,7,Very Good,0,1,4,High School,0
+2,11,Very Good,0,1,14,High School,0
+17,12,Good,1,5,13,Master's,0
+10,3,Average,0,2,7,PhD,0
+7,3,Very Good,1,5,17,Master's,1
+6,8,Good,0,4,14,PhD,2
+7,11,Excellent,0,3,4,Bachelor's,1
+10,9,Very Good,1,5,5,Master's,0
+5,10,Good,1,4,5,High School,1
+19,8,Good,0,4,13,Bachelor's,1
+18,8,Bad,1,5,15,High School,1
+15,6,Excellent,1,3,14,Bachelor's,0
+4,1,Bad,0,3,23,Master's,0
+21,12,Average,0,2,8,PhD,0
+0,2,Bad,0,1,13,Bachelor's,0
+19,2,Bad,1,5,0,PhD,0
+11,7,Very Good,1,3,20,Bachelor's,0
+18,0,Good,1,1,22,High School,0
+9,2,Excellent,1,2,0,High School,1
+4,5,Bad,0,4,6,Bachelor's,0
+4,6,Excellent,1,5,2,PhD,0
+8,7,Bad,0,3,2,Master's,2
+22,9,Average,1,1,16,Master's,2
+4,9,Bad,0,5,1,High School,1
+15,8,Very Good,0,3,13,Master's,2
+5,3,Good,0,1,10,High School,0
+19,11,Average,1,3,4,Master's,2
+14,6,Bad,0,4,14,Bachelor's,0
+20,1,Excellent,0,3,19,High School,0
+3,8,Average,1,1,0,High School,0
+1,2,Average,0,4,1,Bachelor's,0
+14,7,Bad,1,3,9,High School,0
+8,0,Average,1,3,5,Master's,1
+5,9,Excellent,0,2,0,Master's,1
+0,8,Average,0,2,5,High School,0
+4,1,Excellent,1,2,13,Master's,0
+2,2,Bad,0,3,17,PhD,1
+14,8,Good,1,2,1,High School,1
+16,7,Average,1,5,0,Bachelor's,0
+18,5,Good,1,3,15,PhD,1
+9,12,Excellent,0,4,3,High School,0
+9,6,Average,1,3,14,Bachelor's,0
+1,8,Very Good,0,2,2,Master's,2
+15,1,Good,0,3,13,Bachelor's,0
+2,5,Average,0,3,20,PhD,0
+17,4,Good,0,4,16,Master's,1
+12,11,Average,1,4,11,High School,1
+20,9,Bad,0,3,15,Master's,0
+14,2,Good,1,3,19,High School,0
+4,4,Very Good,1,1,12,High School,0
+5,11,Very Good,0,1,10,Bachelor's,1
+15,3,Excellent,1,1,5,Bachelor's,0
+17,12,Average,1,5,0,Bachelor's,0
+9,3,Good,0,3,21,PhD,2
+4,8,Excellent,1,1,12,PhD,0
+0,0,Good,1,4,8,Bachelor's,0
+14,2,Average,1,3,23,PhD,0
+1,7,Very Good,1,2,17,Master's,1
+7,2,Bad,0,4,5,Master's,0
+16,8,Very Good,1,4,16,PhD,0
+17,6,Excellent,1,1,23,PhD,1
+6,3,Bad,1,4,18,Master's,0
+1,2,Excellent,1,1,6,High School,0
+17,12,Average,0,2,21,Master's,0
+19,11,Bad,1,3,18,Master's,0
+12,3,Excellent,0,4,17,PhD,0
+16,4,Average,1,3,8,Master's,0
+6,2,Very Good,0,2,5,PhD,0
+2,11,Average,0,1,6,PhD,0
+9,4,Good,0,3,13,Bachelor's,1
+4,8,Average,0,2,6,Master's,2
+17,5,Average,0,5,3,High School,1
+16,6,Good,1,1,10,Bachelor's,1
+5,9,Excellent,1,4,11,PhD,0
+3,3,Excellent,1,1,4,PhD,2
+21,3,Average,0,5,4,High School,0
+0,8,Good,1,4,20,PhD,2
+5,4,Good,0,2,0,Master's,2
+17,7,Very Good,0,4,4,Bachelor's,1
+12,7,Excellent,1,2,10,PhD,2
+4,6,Bad,1,1,17,PhD,0
+7,4,Excellent,0,5,21,High School,0
+15,8,Excellent,0,5,9,Master's,0
+17,8,Very Good,1,1,17,PhD,0
+15,10,Bad,1,4,4,High School,0
+0,5,Very Good,1,1,22,PhD,1
+8,3,Bad,1,5,14,High School,2
+3,2,Average,0,1,16,High School,0
+15,8,Bad,1,3,9,Master's,1
+9,3,Very Good,1,4,9,PhD,2
+2,5,Excellent,1,5,10,Master's,2
+10,9,Bad,0,4,8,High School,2
+9,4,Bad,0,3,7,Bachelor's,0
+17,1,Good,0,5,22,PhD,2
+5,5,Excellent,0,5,12,Bachelor's,1
+11,6,Average,1,3,4,PhD,0
+5,7,Very Good,0,5,18,Master's,0
+19,8,Average,1,5,19,Master's,1
+12,0,Excellent,1,5,10,Master's,0
+8,6,Bad,1,2,17,Master's,1
+4,7,Bad,1,3,3,Master's,1
+14,3,Excellent,0,5,13,Bachelor's,0
+19,11,Bad,0,3,6,Master's,0
+0,1,Bad,0,3,23,High School,1
+6,9,Bad,1,5,6,High School,0
+16,9,Very Good,1,2,7,Bachelor's,0
+17,4,Very Good,1,1,0,PhD,0
+12,5,Good,1,3,6,High School,0
+14,6,Average,1,1,18,PhD,2
+20,10,Excellent,0,3,0,Bachelor's,0
+15,6,Excellent,1,4,12,PhD,1
+3,2,Excellent,0,2,0,PhD,0
+1,1,Good,1,5,12,PhD,0
+18,6,Very Good,1,2,9,PhD,1
+17,0,Good,0,4,11,Bachelor's,1
+18,5,Excellent,0,1,10,High School,0
+12,2,Average,1,2,0,Master's,0
+7,0,Bad,1,4,1,PhD,0
+14,11,Very Good,1,1,7,High School,0
+9,4,Very Good,1,3,8,High School,1
+5,7,Good,0,4,16,Bachelor's,0
+0,3,Very Good,1,3,9,High School,0
+8,5,Excellent,0,2,2,Bachelor's,0
+13,1,Excellent,1,3,4,PhD,2
+14,6,Good,0,4,6,PhD,2
+4,2,Excellent,0,1,13,Master's,0
+6,10,Average,1,4,20,Master's,1
+5,11,Good,0,3,6,Master's,0
+4,4,Average,1,4,15,High School,0
+15,7,Bad,0,4,9,PhD,1
+19,10,Average,1,4,11,Bachelor's,2
+17,2,Bad,0,5,10,Master's,2
+2,7,Bad,1,3,2,Bachelor's,0
+10,2,Average,1,2,7,Bachelor's,0
+20,3,Good,0,5,19,Master's,1
+15,1,Excellent,0,3,20,PhD,0
+15,7,Excellent,0,5,12,Master's,0
+16,11,Bad,0,3,0,Bachelor's,0
+10,0,Bad,1,2,0,Master's,1
+19,11,Good,0,5,4,Bachelor's,0
+15,7,Very Good,1,5,6,Bachelor's,0
+21,8,Average,0,5,0,Master's,2
+6,9,Bad,1,5,0,High School,0
+7,2,Excellent,1,3,6,Master's,0
+14,2,Good,1,2,21,High School,0
+0,7,Average,1,4,6,Bachelor's,0
+0,2,Good,0,5,6,Bachelor's,0
+14,6,Average,0,3,4,High School,0
+4,7,Average,1,3,9,Bachelor's,1
+17,10,Bad,0,5,21,High School,0
+7,0,Good,0,1,5,High School,2
+11,1,Good,1,5,13,Bachelor's,0
+0,5,Excellent,0,5,1,PhD,0
+14,3,Excellent,0,2,20,High School,0
+9,8,Bad,0,1,16,Master's,0
+7,7,Bad,1,4,5,Master's,1
+2,6,Very Good,0,5,1,Bachelor's,0
+13,11,Excellent,1,5,14,PhD,0
+15,6,Average,0,2,16,Bachelor's,1
+19,5,Good,0,4,9,PhD,2
+3,7,Bad,0,4,13,High School,1
+12,3,Good,1,4,25,High School,0
+3,3,Good,1,1,5,High School,1
+14,5,Very Good,0,2,0,High School,0
+16,9,Excellent,1,1,16,Master's,0
+12,6,Bad,0,3,12,Master's,0
+19,11,Good,1,3,15,Bachelor's,0
+7,10,Bad,1,5,0,PhD,0
+14,9,Average,0,4,18,High School,0
+15,2,Very Good,0,4,7,High School,1
+14,7,Average,0,2,24,PhD,0
+6,7,Bad,0,3,0,PhD,0
+3,9,Bad,1,1,5,Bachelor's,0
+0,8,Excellent,1,4,18,PhD,2
+5,2,Good,1,4,19,High School,0
+12,4,Good,0,1,16,High School,0
+6,3,Average,0,2,7,High School,1
+5,8,Very Good,1,2,15,High School,1
+2,3,Good,0,4,16,High School,0
+19,10,Excellent,1,5,6,Bachelor's,1
+10,1,Average,1,5,7,High School,1
+19,2,Average,1,3,5,Bachelor's,1
+0,7,Excellent,1,5,12,High School,0
+7,0,Very Good,1,2,3,Master's,1
+14,6,Excellent,0,4,5,Master's,0
+3,10,Very Good,0,2,23,Master's,0
+17,8,Excellent,0,1,12,Master's,0
+17,5,Excellent,1,1,0,Bachelor's,0
+4,6,Bad,1,1,0,Bachelor's,0
+18,3,Average,1,1,1,PhD,1
+21,7,Excellent,1,1,11,High School,0
+12,6,Excellent,0,3,11,Master's,0
+20,5,Good,0,5,9,Bachelor's,0
+1,5,Average,1,5,3,High School,0
+0,3,Good,1,2,5,High School,2
+2,9,Average,1,1,24,Bachelor's,0
+18,9,Good,0,3,0,Master's,0
+9,2,Excellent,0,2,11,PhD,0
+4,0,Excellent,0,5,7,High School,0
+10,4,Bad,1,4,6,PhD,0
+3,9,Good,1,4,12,Master's,1
+2,6,Very Good,0,4,2,Master's,2
+0,7,Bad,1,3,15,PhD,0
+7,11,Good,0,4,22,Master's,1
+11,0,Good,1,1,7,High School,1
+11,7,Bad,0,1,16,PhD,1
+13,8,Excellent,1,3,21,Master's,0
+11,1,Good,0,5,12,PhD,0
+12,4,Excellent,0,3,24,High School,0
+13,8,Bad,0,5,12,Master's,1
+2,1,Excellent,0,4,0,High School,1
+19,10,Average,0,2,10,Master's,0
+20,7,Very Good,0,5,12,Bachelor's,0
+3,11,Good,1,5,4,Master's,2
+17,3,Very Good,1,1,8,PhD,1
+9,6,Excellent,1,2,0,Master's,2
+9,7,Good,0,1,16,High School,1
+3,6,Excellent,0,4,12,High School,0
+20,6,Average,1,4,17,Master's,0
+7,5,Bad,0,4,21,PhD,1
+8,6,Good,0,1,5,Bachelor's,0
+6,7,Average,0,4,10,PhD,0
+20,6,Average,0,3,0,Bachelor's,1
+11,2,Good,0,5,18,High School,0
+10,2,Excellent,1,2,6,PhD,1
+3,3,Average,1,3,13,Bachelor's,0
+5,2,Very Good,1,3,0,Master's,2
+11,5,Average,1,3,22,High School,0
+6,5,Excellent,1,4,8,Master's,0
+8,11,Excellent,0,4,7,High School,1
+3,4,Very Good,0,4,17,PhD,0
+19,5,Average,0,4,12,PhD,1
+3,10,Excellent,0,2,20,High School,1
+16,6,Good,1,3,19,High School,0
+3,6,Bad,1,5,12,High School,0
+18,6,Bad,1,5,16,PhD,0
+15,6,Bad,0,2,8,Bachelor's,0
+8,7,Average,1,3,15,Master's,2
+3,9,Very Good,0,1,22,Master's,1
+14,8,Excellent,1,1,13,PhD,1
+18,8,Good,1,1,15,Master's,1
+13,4,Good,0,1,0,High School,0
+5,9,Average,0,3,10,Bachelor's,2
+10,0,Bad,1,2,16,Master's,1
+17,9,Average,1,1,3,Bachelor's,1
+15,4,Very Good,0,5,21,High School,1
+21,5,Very Good,1,3,12,Master's,0
+16,7,Excellent,1,1,6,PhD,1
+11,8,Excellent,0,1,9,Bachelor's,0
+21,3,Very Good,1,1,3,High School,0
+19,9,Very Good,0,2,14,Bachelor's,0
+6,12,Very Good,1,2,12,Master's,2
+14,0,Average,0,2,15,Master's,1
+8,8,Very Good,1,5,8,PhD,1
+20,7,Good,0,3,6,High School,1
+13,4,Bad,1,4,25,High School,0
+8,3,Very Good,0,3,8,PhD,2
+7,8,Bad,1,3,9,PhD,0
+14,9,Average,1,5,16,High School,0
+22,8,Bad,1,5,6,Bachelor's,0
+17,9,Average,1,5,0,Bachelor's,1
+15,3,Good,1,3,16,PhD,1
+14,4,Average,1,2,15,Bachelor's,0
+6,7,Average,1,3,14,High School,0
+1,10,Excellent,1,1,16,Master's,1
+13,4,Very Good,1,3,1,Master's,0
+19,5,Very Good,0,2,3,Bachelor's,1
+3,6,Good,0,1,13,PhD,2
+18,11,Good,1,4,4,PhD,0
+7,2,Very Good,0,3,1,PhD,0
+15,5,Excellent,1,3,3,PhD,1
+11,5,Very Good,1,1,11,PhD,1
+9,3,Excellent,0,3,6,Bachelor's,0
+12,6,Good,1,3,10,Master's,2
+6,5,Bad,1,5,15,Master's,0
+2,9,Good,0,4,13,Bachelor's,0
+11,4,Good,0,3,15,PhD,1
+12,8,Average,1,3,14,Bachelor's,1
+19,8,Average,0,1,17,Master's,0
+9,8,Very Good,0,1,24,Bachelor's,0
+19,10,Bad,1,2,5,PhD,1
+13,8,Excellent,0,5,5,Master's,0
+12,2,Average,1,4,21,Master's,0
+9,7,Bad,0,2,10,PhD,0
+7,5,Good,1,2,8,Bachelor's,0
+21,7,Very Good,0,4,17,Bachelor's,1
+11,8,Bad,1,3,19,High School,2
+11,9,Average,0,3,22,Master's,0
+6,0,Good,1,2,14,High School,1
+6,8,Average,1,1,15,High School,1
+3,1,Average,1,2,2,PhD,0
+2,5,Good,0,1,15,PhD,2
+13,7,Average,0,5,6,High School,0
+8,8,Good,0,1,16,Master's,0
+1,4,Bad,1,5,2,PhD,1
+0,6,Good,0,4,14,High School,0
+10,2,Good,1,2,12,High School,1
+14,5,Very Good,0,4,13,High School,1
+18,6,Good,0,3,10,High School,0
+11,0,Good,0,3,12,High School,1
+18,6,Bad,0,5,0,High School,0
+16,8,Very Good,1,5,19,PhD,0
+13,2,Excellent,0,2,10,Master's,1
+17,3,Bad,0,1,21,High School,2
+11,4,Bad,1,2,21,Bachelor's,0
+22,1,Excellent,1,4,19,PhD,0
+3,6,Good,0,1,17,PhD,1
+5,8,Average,0,3,10,High School,1
+18,9,Very Good,1,5,8,PhD,1
+6,9,Average,1,3,11,High School,0
+10,3,Excellent,1,2,6,Master's,0
+6,7,Bad,0,1,4,Master's,0
+17,3,Bad,0,5,0,PhD,1
+4,4,Very Good,0,1,14,PhD,0
+15,12,Bad,1,5,10,Bachelor's,0
+17,6,Bad,1,2,9,PhD,2
+8,6,Very Good,1,5,13,Bachelor's,0
+3,8,Very Good,0,3,0,Master's,2
+22,8,Excellent,1,3,9,Master's,1
+16,0,Bad,0,5,10,High School,1
+7,2,Bad,1,1,4,Master's,0
+14,8,Excellent,0,2,13,Bachelor's,0
+6,1,Good,0,2,3,PhD,1
+16,9,Good,1,1,5,High School,1
+3,6,Good,0,4,9,Bachelor's,1
+16,1,Excellent,1,4,6,PhD,0
+18,5,Bad,0,1,4,High School,1
+3,5,Excellent,1,4,5,Master's,1
+19,8,Excellent,1,2,6,Bachelor's,1
+6,10,Good,0,3,12,PhD,1
+5,4,Average,1,3,1,High School,1
+4,4,Bad,0,2,10,High School,1
+8,6,Good,1,3,0,Master's,0
+11,5,Average,1,4,14,PhD,0
+6,3,Average,1,3,7,Master's,0
+17,4,Very Good,1,2,24,Master's,0
+13,4,Bad,0,5,16,PhD,0
+1,6,Average,1,5,10,PhD,0
+9,10,Good,1,5,5,PhD,0
+4,1,Very Good,0,1,3,Bachelor's,0
+15,8,Bad,0,1,11,PhD,1
+18,1,Excellent,0,5,11,High School,2
+14,1,Good,0,5,5,Master's,0
+8,5,Average,0,3,15,Bachelor's,2
+15,7,Average,0,5,0,PhD,0
+9,7,Good,1,5,13,Bachelor's,0
+14,5,Average,0,4,8,PhD,0
+11,7,Very Good,1,2,11,Bachelor's,0
+17,7,Bad,0,3,8,Master's,1
+13,12,Very Good,1,3,8,Master's,1
+12,6,Average,1,2,3,High School,0
+11,7,Excellent,1,4,17,High School,0
+14,10,Bad,0,5,24,PhD,0
+11,7,Bad,0,5,5,Master's,0
+3,7,Good,0,3,16,Bachelor's,0
+5,11,Good,0,4,22,Bachelor's,0
+8,5,Excellent,1,4,2,Bachelor's,1
+1,12,Bad,0,1,20,High School,2
+13,9,Excellent,1,5,2,Bachelor's,0
+6,12,Good,1,3,1,High School,2
+10,1,Good,0,2,13,High School,0
+21,7,Bad,0,4,3,PhD,0
+15,10,Very Good,0,4,20,Bachelor's,0
+6,5,Average,1,5,7,Bachelor's,1
+4,8,Good,0,2,4,Master's,2
+2,3,Good,1,2,4,PhD,1
+1,11,Very Good,0,5,0,Master's,0
+7,1,Very Good,1,4,15,PhD,1
+9,6,Excellent,0,5,10,Bachelor's,0
+9,5,Excellent,0,5,10,High School,1
+7,3,Average,1,3,20,High School,0
+8,8,Average,0,5,13,High School,0
+10,1,Bad,0,5,7,High School,0
+8,5,Excellent,0,4,14,High School,1
+13,7,Good,0,2,3,Master's,0
+0,9,Excellent,0,3,10,PhD,1
+1,3,Good,0,2,20,Bachelor's,0
+15,12,Very Good,0,3,19,Master's,1
+6,9,Excellent,1,1,11,PhD,1
+3,0,Very Good,1,4,7,High School,1
+10,6,Average,0,4,17,PhD,0
+10,6,Average,0,3,3,PhD,0
+5,7,Bad,0,1,0,High School,0
+0,3,Excellent,1,4,19,High School,1
+1,7,Very Good,1,5,22,High School,0
+7,3,Good,0,2,1,Bachelor's,0
+15,2,Average,1,5,0,High School,0
+16,0,Average,0,2,15,Bachelor's,0
+1,7,Good,0,1,16,High School,1
+2,10,Very Good,0,4,22,Bachelor's,0
+4,11,Very Good,0,1,21,PhD,1
+15,7,Excellent,1,3,9,Master's,0
+8,2,Excellent,1,5,13,PhD,0
+7,2,Bad,0,4,16,PhD,0
+17,3,Average,1,2,6,High School,0
+15,7,Excellent,1,5,7,Bachelor's,0
+11,3,Very Good,0,5,16,Master's,1
+15,1,Good,1,2,7,High School,0
+19,6,Very Good,0,2,17,High School,1
+8,5,Average,0,5,13,High School,0
+17,7,Very Good,0,5,14,PhD,0
+22,0,Bad,0,3,0,Bachelor's,1
+3,6,Average,1,2,20,Bachelor's,0
+7,4,Good,0,2,3,Master's,0
+5,5,Bad,1,2,18,Bachelor's,0
+13,5,Average,0,3,20,Bachelor's,0
+14,6,Good,0,1,11,High School,1
+11,7,Bad,1,2,10,High School,0
+4,7,Bad,0,5,8,PhD,1
+14,4,Average,1,2,10,High School,1
+5,6,Excellent,1,1,5,High School,0
+19,12,Bad,0,1,13,High School,2
+4,11,Bad,0,3,6,High School,0
+12,2,Good,0,5,5,PhD,2
+14,3,Very Good,0,3,15,High School,0
+4,4,Average,0,1,13,Master's,1
+10,7,Average,0,4,11,Master's,0
+14,0,Excellent,1,5,10,Master's,0
+19,4,Excellent,1,3,5,Master's,1
+12,4,Average,0,3,12,High School,1
+8,0,Excellent,1,1,13,Master's,0
+3,1,Good,1,3,6,High School,0
+3,6,Average,0,4,4,PhD,1
+19,4,Excellent,0,4,13,Master's,1
+12,10,Average,1,3,15,Bachelor's,2
+7,7,Very Good,0,1,3,Master's,1
+4,12,Bad,1,3,16,Master's,2
+8,9,Average,0,4,11,High School,1
+8,2,Bad,1,1,18,Master's,0
+6,7,Excellent,1,4,0,Bachelor's,0
+10,5,Bad,1,5,12,High School,1
+3,2,Average,1,1,8,High School,1
+0,1,Very Good,0,2,21,PhD,0
+21,2,Excellent,0,5,11,PhD,0
+8,4,Average,1,1,10,Master's,2
+11,7,Excellent,1,5,15,PhD,0
+14,9,Good,0,3,13,PhD,0
+9,0,Bad,0,4,23,PhD,0
+22,7,Good,1,4,19,High School,0
+17,7,Average,1,3,23,High School,0
+16,6,Very Good,1,1,6,High School,0
+20,1,Excellent,1,5,6,PhD,0
+14,2,Bad,1,5,12,High School,1
+9,8,Excellent,0,1,19,PhD,0
+0,4,Average,1,2,3,High School,1
+4,0,Excellent,0,3,3,High School,1
+15,6,Bad,0,4,22,Bachelor's,0
+7,3,Average,0,5,13,Master's,1
+16,0,Excellent,1,3,20,PhD,0
+16,3,Very Good,0,2,4,Bachelor's,1
+15,5,Average,0,1,8,High School,0
+4,1,Average,0,5,2,PhD,1
+1,3,Very Good,0,1,7,High School,1
+7,8,Good,1,1,2,Master's,0
+0,7,Bad,1,2,9,Bachelor's,0
+3,2,Good,0,3,11,Master's,1
+19,8,Excellent,0,2,17,Bachelor's,1
+4,6,Very Good,1,4,4,High School,0
+14,10,Good,1,2,4,Master's,1
+4,2,Average,1,3,5,Master's,0
+4,1,Excellent,0,5,2,High School,1
+12,5,Excellent,1,3,9,Master's,0
+15,6,Good,0,4,14,PhD,1
+7,10,Good,0,1,15,Bachelor's,0
+4,9,Very Good,1,4,19,Bachelor's,0
+21,1,Bad,0,3,4,Bachelor's,0
+4,9,Good,1,2,16,PhD,0
+7,1,Good,0,1,14,Bachelor's,0
+9,2,Average,1,4,13,High School,0
+14,7,Excellent,0,2,10,Master's,1
+17,3,Bad,0,3,0,PhD,0
+0,1,Average,1,4,8,Bachelor's,0
+7,7,Very Good,1,1,6,High School,0
+7,6,Very Good,1,4,12,Master's,0
+16,3,Good,1,3,10,Master's,0
+3,1,Good,0,4,10,PhD,0
+19,11,Very Good,1,5,10,PhD,0
+2,6,Good,1,3,9,PhD,0
+20,8,Bad,0,2,7,High School,0
+1,5,Good,1,5,12,High School,0
+21,6,Excellent,1,1,11,PhD,0
+18,6,Good,0,3,3,Bachelor's,0
+5,6,Average,1,3,13,Master's,2
+20,3,Bad,1,4,17,Master's,0
+10,10,Average,1,1,13,High School,1
+0,11,Average,1,2,9,Master's,0
+8,1,Excellent,1,2,17,Bachelor's,1
+6,4,Bad,1,5,0,Master's,1
+18,1,Bad,0,1,12,High School,0
+8,10,Bad,1,1,4,High School,2
+1,3,Bad,0,3,2,Bachelor's,0
+9,1,Bad,0,1,5,Bachelor's,0
+16,4,Excellent,0,5,16,Master's,1
+9,4,Good,0,3,14,Master's,1
+5,0,Average,1,2,15,High School,0
+9,9,Bad,1,5,22,Bachelor's,0
+18,7,Good,1,5,17,Bachelor's,0
+15,3,Good,0,4,11,Bachelor's,0
+22,7,Average,1,5,8,Master's,1
+19,0,Excellent,1,1,24,Bachelor's,0
+2,3,Very Good,1,2,14,High School,0
+0,8,Very Good,0,1,10,High School,0
+14,8,Good,0,3,11,Master's,0
+12,1,Average,1,2,8,PhD,0
+5,2,Very Good,0,3,19,Master's,1
+5,11,Good,0,3,15,PhD,2
+7,8,Excellent,1,2,6,Bachelor's,1
+11,8,Very Good,0,5,0,Master's,0
+3,9,Good,0,3,8,High School,1
+18,10,Good,1,2,16,Bachelor's,1
+16,7,Bad,0,4,14,High School,1
+17,8,Excellent,0,3,17,Bachelor's,0
+3,0,Bad,0,4,20,Master's,0
+18,8,Average,0,1,10,PhD,0
+1,3,Bad,0,1,4,Bachelor's,0
+21,3,Bad,0,4,1,PhD,0
+10,9,Very Good,0,5,15,Bachelor's,0
+19,3,Good,0,2,22,High School,0
+8,4,Excellent,1,1,4,High School,1
+5,5,Bad,1,5,10,Bachelor's,0
+7,10,Excellent,1,4,9,PhD,0
+7,8,Bad,1,5,0,Master's,2
+18,9,Average,0,1,20,Master's,2
+3,9,Bad,1,5,1,High School,1
+17,7,Very Good,1,5,10,Master's,2
+2,1,Good,0,1,8,High School,0
+20,9,Average,0,1,6,Master's,2
+15,9,Bad,0,5,20,Bachelor's,0
+17,4,Excellent,0,3,17,High School,0
+0,9,Average,0,1,5,High School,0
+1,4,Average,1,5,5,Bachelor's,0
+17,9,Bad,0,1,8,High School,0
+10,3,Average,1,2,2,Master's,1
+4,8,Excellent,1,1,0,Master's,1
+0,4,Average,0,1,0,High School,0
+5,5,Excellent,1,2,11,Master's,0
+1,4,Bad,1,4,17,PhD,1
+14,10,Good,0,4,8,High School,1
+17,6,Average,1,3,3,Bachelor's,0
+18,5,Good,1,2,17,PhD,1
+7,12,Excellent,1,3,0,High School,0
+6,7,Average,0,3,11,Bachelor's,0
+1,9,Very Good,0,3,1,Master's,2
+18,3,Good,0,3,14,Bachelor's,0
+0,8,Average,1,4,18,PhD,0
+17,8,Good,0,5,19,Master's,1
+13,10,Average,1,4,8,High School,1
+19,10,Bad,0,2,6,Master's,0
+12,0,Good,1,3,19,High School,0
+7,6,Very Good,0,1,3,High School,0
+8,11,Very Good,0,2,7,Bachelor's,1
+11,5,Excellent,1,2,12,Bachelor's,0
+18,8,Average,0,4,0,Bachelor's,0
+8,1,Good,1,2,22,PhD,2
+1,10,Excellent,0,1,21,PhD,0
+0,1,Good,0,4,10,Bachelor's,0
+13,6,Average,1,5,23,PhD,0
+0,8,Very Good,1,1,17,Master's,1
+6,2,Bad,1,5,7,Master's,0
+15,9,Very Good,0,2,17,PhD,0
+19,8,Excellent,1,3,23,PhD,1
+4,1,Bad,0,3,17,Master's,0
+5,1,Excellent,1,3,12,High School,0
+17,12,Average,1,3,21,Master's,0
+16,9,Bad,1,3,10,Master's,0
+12,3,Excellent,1,4,22,PhD,0
+12,7,Average,1,2,11,Master's,0
+6,4,Very Good,1,2,10,PhD,0
+4,12,Average,0,1,8,PhD,0
+7,2,Good,1,3,17,Bachelor's,1
+7,9,Average,0,2,3,Master's,2
+18,6,Average,1,5,0,High School,1
+13,7,Good,1,1,6,Bachelor's,1
+2,7,Excellent,1,5,7,PhD,0
+0,3,Excellent,0,1,0,PhD,2
+21,3,Average,0,5,4,High School,0
+2,5,Good,1,4,18,PhD,2
+4,7,Good,0,2,0,Master's,2
+16,8,Very Good,1,3,3,Bachelor's,1
+8,7,Excellent,1,1,3,PhD,2
+2,7,Bad,0,1,16,PhD,0
+8,2,Excellent,0,5,13,High School,0
+13,6,Excellent,0,4,10,Master's,0
+20,8,Very Good,0,1,14,PhD,0
+13,10,Bad,1,5,6,High School,0
+3,7,Very Good,0,2,20,PhD,1
+8,3,Bad,0,3,9,High School,2
+3,5,Average,1,2,15,High School,0
+19,7,Bad,0,5,10,Master's,1
+10,5,Very Good,0,5,5,PhD,2
+0,5,Excellent,0,5,3,Master's,2
+10,8,Bad,0,5,8,High School,2
+13,4,Bad,1,4,0,Bachelor's,0
+15,1,Good,1,5,24,PhD,2
+6,6,Excellent,0,4,11,Bachelor's,1
+11,2,Average,0,1,6,PhD,0
+1,4,Very Good,1,5,9,Master's,0
+20,5,Average,0,3,16,Master's,1
+11,3,Excellent,0,4,18,Master's,0
+6,9,Bad,0,4,11,Master's,1
+6,8,Bad,0,3,11,Master's,1
+11,3,Excellent,0,5,14,Bachelor's,0
+20,7,Bad,0,3,5,Master's,0
+2,2,Bad,0,4,18,High School,1
+9,9,Bad,0,4,2,High School,0
+14,10,Very Good,0,4,15,Bachelor's,0
+15,5,Very Good,1,3,2,PhD,0
+16,5,Good,1,2,11,High School,0
+13,7,Average,1,1,15,PhD,2
+19,11,Excellent,0,1,0,Bachelor's,0
+15,7,Excellent,0,3,14,PhD,1
+1,6,Excellent,1,3,0,PhD,0
+1,4,Good,0,5,16,PhD,0
+17,2,Very Good,1,1,13,PhD,1
+18,2,Good,0,4,9,Bachelor's,1
+18,4,Excellent,1,1,1,High School,0
+10,1,Average,1,3,3,Master's,0
+8,1,Bad,1,5,0,PhD,0
+17,12,Very Good,0,1,11,High School,0
+10,6,Very Good,1,5,4,High School,1
+7,7,Good,0,3,12,Bachelor's,0
+3,6,Very Good,0,4,7,High School,0
+10,4,Excellent,0,2,8,Bachelor's,0
+12,0,Excellent,0,4,5,PhD,2
+14,7,Good,0,3,10,PhD,2
+7,3,Excellent,0,1,17,Master's,0
+9,10,Average,0,5,22,Master's,1
+2,12,Good,1,5,4,Master's,0
+6,5,Average,1,3,16,High School,0
+12,7,Bad,1,5,6,PhD,1
+18,11,Average,0,4,12,Bachelor's,2
+16,1,Bad,0,4,15,Master's,2
+3,7,Bad,0,5,0,Bachelor's,0
+8,2,Average,0,3,11,Bachelor's,0
+21,3,Good,1,5,21,Master's,1
+17,1,Excellent,0,3,24,PhD,0
+14,7,Excellent,1,5,16,Master's,0
+17,10,Bad,0,4,3,Bachelor's,0
+12,0,Bad,1,3,4,Master's,1
+19,10,Good,0,3,7,Bachelor's,0
+19,8,Very Good,1,4,7,Bachelor's,0
+21,6,Average,0,4,1,Master's,2
+6,8,Bad,1,4,0,High School,0
+8,3,Excellent,0,2,8,Master's,0
+10,0,Good,1,2,23,High School,0
+0,4,Average,1,4,0,Bachelor's,0
+3,2,Good,0,5,7,Bachelor's,0
+14,5,Average,1,1,1,High School,0
+3,7,Average,0,3,4,Bachelor's,1
+14,9,Bad,0,4,23,High School,0
+9,2,Good,0,1,7,High School,2
+11,4,Good,1,5,18,Bachelor's,0
+3,1,Excellent,1,4,7,PhD,0
+14,0,Excellent,0,2,15,High School,0
+5,9,Bad,0,2,9,Master's,0
+3,4,Bad,1,4,9,Master's,1
+2,8,Very Good,1,5,1,Bachelor's,0
+11,9,Excellent,1,5,9,PhD,0
+18,6,Average,0,1,9,Bachelor's,1
+17,3,Good,0,4,16,PhD,2
+5,7,Bad,0,5,12,High School,1
+16,6,Good,0,5,19,High School,0
+3,3,Good,0,2,2,High School,1
+13,4,Very Good,1,2,1,High School,0
+16,9,Excellent,0,2,6,Master's,0
+16,5,Bad,1,5,20,Master's,0
+18,9,Good,1,3,21,Bachelor's,0
+3,10,Bad,0,5,2,PhD,0
+14,11,Average,1,3,21,High School,0
+16,4,Very Good,0,5,7,High School,1
+18,10,Average,1,2,17,PhD,0
+9,6,Bad,0,5,3,PhD,0
+4,9,Bad,0,3,7,Bachelor's,0
+3,6,Excellent,1,4,22,PhD,2
+3,5,Good,0,4,17,High School,0
+12,4,Good,1,2,21,High School,0
+5,2,Average,0,2,9,High School,1
+5,8,Very Good,0,1,10,High School,1
+4,1,Good,0,4,19,High School,0
+19,7,Excellent,1,4,3,Bachelor's,1
+8,0,Average,1,5,11,High School,1
+17,1,Average,0,1,8,Bachelor's,1
+0,8,Excellent,1,4,14,High School,0
+4,0,Very Good,0,2,4,Master's,1
+15,7,Excellent,1,5,0,Master's,0
+3,7,Very Good,1,1,18,Master's,0
+17,9,Excellent,0,1,11,Master's,0
+16,3,Excellent,0,1,0,Bachelor's,0
+1,5,Bad,0,2,2,Bachelor's,0
+16,2,Average,0,1,6,PhD,1
+21,4,Excellent,0,1,11,High School,0
+10,8,Excellent,1,1,19,Master's,0
+16,3,Good,1,3,10,Bachelor's,0
+5,5,Average,0,5,5,High School,0
+2,4,Good,0,2,6,High School,2
+1,8,Average,0,2,18,Bachelor's,0
+19,11,Good,1,1,0,Master's,0
+12,2,Excellent,0,3,8,PhD,0
+5,1,Excellent,0,5,4,High School,0
+10,5,Bad,1,5,6,PhD,0
+3,9,Good,1,4,16,Master's,1
+1,6,Very Good,1,2,4,Master's,2
+2,4,Bad,1,3,11,PhD,0
+9,9,Good,0,2,24,Master's,1
+10,0,Good,1,2,7,High School,1
+10,5,Bad,1,2,23,PhD,1
+13,9,Excellent,0,3,20,Master's,0
+15,2,Good,0,4,12,PhD,0
+14,3,Excellent,0,2,16,High School,0
+12,4,Bad,1,5,13,Master's,1
+2,1,Excellent,0,5,0,High School,1
+18,8,Average,1,1,15,Master's,0
+16,4,Very Good,1,4,16,Bachelor's,0
+3,8,Good,1,5,4,Master's,2
+18,0,Very Good,0,1,4,PhD,1
+10,5,Excellent,1,4,4,Master's,2
+9,5,Good,0,1,10,High School,1
+4,2,Excellent,0,4,17,High School,0
+20,10,Average,0,3,18,Master's,0
+9,3,Bad,1,4,14,PhD,1
+8,8,Good,1,2,0,Bachelor's,0
+5,9,Average,1,5,4,PhD,0
+20,3,Average,0,5,0,Bachelor's,1
+12,2,Good,1,4,16,High School,0
+12,3,Excellent,1,2,4,PhD,1
+6,5,Average,1,3,9,Bachelor's,0
+3,4,Very Good,1,2,8,Master's,2
+10,3,Average,1,3,17,High School,0
+5,5,Excellent,0,4,10,Master's,0
+7,8,Excellent,0,4,3,High School,1
+5,6,Very Good,0,5,14,PhD,0
+16,4,Average,0,3,16,PhD,1
+4,9,Excellent,1,4,17,High School,1
+16,9,Good,0,2,19,High School,0
+3,4,Bad,1,5,3,High School,0
+20,5,Bad,0,5,17,PhD,0
+15,6,Bad,0,1,3,Bachelor's,0
+7,9,Average,0,3,14,Master's,2
+4,10,Very Good,1,1,14,Master's,1
+11,12,Excellent,1,1,17,PhD,1
+16,8,Good,0,1,13,Master's,1
+15,3,Good,1,3,3,High School,0
+5,8,Average,0,2,13,Bachelor's,2
+11,2,Bad,0,4,13,Master's,1
+18,8,Average,0,1,13,Bachelor's,1
+16,4,Very Good,1,4,24,High School,1
+20,4,Very Good,0,4,14,Master's,0
+18,3,Excellent,0,1,3,PhD,1
+15,7,Excellent,0,1,17,Bachelor's,0
+18,6,Very Good,1,1,8,High School,0
+19,9,Very Good,0,1,19,Bachelor's,0
+5,12,Very Good,1,2,18,Master's,2
+13,1,Average,0,3,14,Master's,1
+11,10,Very Good,1,5,13,PhD,1
+18,9,Good,0,5,6,High School,1
+11,7,Bad,0,4,20,High School,0
+8,5,Very Good,1,4,1,PhD,2
+5,6,Bad,1,1,2,PhD,0
+16,8,Average,0,5,21,High School,0
+19,4,Bad,1,5,11,Bachelor's,0
+20,8,Average,0,5,0,Bachelor's,1
+15,1,Good,0,1,20,PhD,1
+16,4,Average,0,3,14,Bachelor's,0
+4,6,Average,1,3,6,High School,0
+3,11,Excellent,0,1,15,Master's,1
+12,5,Very Good,1,2,4,Master's,0
+18,5,Very Good,0,1,10,Bachelor's,1
+5,6,Good,1,2,14,PhD,2
+17,11,Good,1,3,10,PhD,0
+5,3,Very Good,0,5,0,PhD,0
+11,4,Excellent,1,1,8,PhD,1
+10,6,Very Good,0,2,3,PhD,1
+9,2,Excellent,0,1,2,Bachelor's,0
+14,7,Good,0,5,10,Master's,2
+3,7,Bad,0,4,8,Master's,0
+4,10,Good,0,5,12,Bachelor's,0
+11,5,Good,1,4,18,PhD,1
+13,11,Average,0,2,21,Bachelor's,1
+18,9,Average,1,2,13,Master's,0
+8,11,Very Good,1,1,18,Bachelor's,0
+21,10,Bad,1,4,7,PhD,1
+15,8,Excellent,1,5,9,Master's,0
+9,1,Average,1,5,19,Master's,0
+7,7,Bad,0,1,7,PhD,0
+5,8,Good,0,3,12,Bachelor's,0
+18,10,Very Good,1,4,18,Bachelor's,1
+12,12,Bad,0,1,22,High School,2
+9,8,Average,0,1,20,Master's,0
+5,1,Good,1,1,10,High School,1
+10,11,Average,1,1,22,High School,1
+4,0,Average,1,2,12,PhD,0
+3,5,Good,1,1,14,PhD,2
+11,4,Average,1,5,8,High School,0
+8,5,Good,1,1,18,Master's,0
+3,1,Bad,0,5,10,PhD,1
+2,6,Good,1,5,14,High School,0
+14,3,Good,0,2,9,High School,1
+14,6,Very Good,1,2,10,High School,1
+15,2,Good,1,5,7,High School,0
+9,0,Good,0,3,17,High School,1
+18,6,Bad,1,4,0,High School,0
+17,10,Very Good,1,5,20,PhD,0
+15,2,Excellent,0,2,17,Master's,1
+21,6,Bad,1,2,21,High School,2
+11,6,Bad,0,1,20,Bachelor's,0
+21,5,Excellent,1,4,18,PhD,0
+4,5,Good,1,1,20,PhD,1
+6,9,Average,0,2,8,High School,1
+20,9,Very Good,1,5,14,PhD,1
+7,9,Average,0,3,10,High School,0
+11,2,Excellent,0,1,4,Master's,0
+8,6,Bad,0,2,0,Master's,0
+16,2,Bad,1,5,0,PhD,1
+5,3,Very Good,1,1,22,PhD,0
+16,12,Bad,0,5,1,Bachelor's,0
+19,5,Bad,1,3,9,PhD,2
+9,9,Very Good,1,4,18,Bachelor's,0
+1,7,Very Good,1,3,4,Master's,2
+19,5,Excellent,0,4,19,Master's,1
+17,0,Bad,1,4,11,High School,1
+6,3,Bad,0,2,5,Master's,0
+11,7,Excellent,1,1,16,Bachelor's,0
+6,3,Good,1,2,8,PhD,1
+17,10,Good,0,1,5,High School,1
+5,10,Good,1,3,9,Bachelor's,1
+13,0,Excellent,0,4,2,PhD,0
+16,6,Bad,1,2,0,High School,1
+3,5,Excellent,0,4,0,Master's,1
+18,7,Excellent,1,4,6,Bachelor's,1
+9,12,Good,1,3,11,PhD,1
+4,4,Average,1,3,4,High School,1
+4,8,Bad,0,1,11,High School,1
+4,3,Good,0,3,4,Master's,0
+11,4,Average,0,5,11,PhD,0
+2,4,Average,1,2,12,Master's,0
+20,4,Very Good,0,1,24,Master's,0
+14,4,Bad,0,5,9,PhD,0
+0,4,Average,0,5,6,PhD,0
+8,7,Good,0,5,0,PhD,0
+2,2,Very Good,0,3,13,Bachelor's,0
+16,7,Bad,0,1,15,PhD,1
+15,0,Excellent,0,3,9,High School,2
+13,1,Good,0,5,10,Master's,0
+9,3,Average,0,2,24,Bachelor's,2
+16,5,Average,0,5,1,PhD,0
+8,6,Good,1,3,13,Bachelor's,0
+16,4,Average,1,3,11,PhD,0
+14,7,Very Good,0,2,19,Bachelor's,0
+17,11,Bad,1,1,9,Master's,1
+13,10,Very Good,1,3,9,Master's,1
+15,10,Average,0,2,2,High School,0
+7,5,Excellent,0,2,16,High School,0
+17,8,Bad,0,5,15,PhD,0
+13,4,Bad,1,4,8,Master's,0
+0,7,Good,0,2,18,Bachelor's,0
+8,8,Good,1,5,20,Bachelor's,0
+8,3,Excellent,0,4,1,Bachelor's,1
+2,9,Bad,1,2,20,High School,2
+11,8,Excellent,1,3,2,Bachelor's,0
+6,10,Good,0,2,0,High School,2
+9,3,Good,0,2,19,High School,0
+18,3,Bad,1,3,7,PhD,0
+17,8,Very Good,1,5,20,Bachelor's,0
+10,2,Average,0,5,9,Bachelor's,1
+4,8,Good,0,3,6,Master's,2
+4,0,Good,1,1,3,PhD,1
+2,7,Very Good,0,4,10,Master's,0
+3,2,Very Good,1,3,15,PhD,1
+11,6,Excellent,0,5,3,Bachelor's,0
+9,3,Excellent,0,5,8,High School,1
+11,5,Average,0,3,15,High School,0
+6,7,Average,1,4,6,High School,0
+7,3,Bad,0,3,1,High School,0
+10,5,Excellent,1,2,12,High School,1
+12,3,Good,0,1,1,Master's,0
+0,10,Excellent,1,5,13,PhD,1
+0,2,Good,1,2,18,Bachelor's,0
+18,11,Very Good,0,2,18,Master's,1
+5,6,Excellent,1,2,4,PhD,1
+2,0,Very Good,1,4,3,High School,1
+14,4,Average,1,4,11,PhD,0
+8,7,Average,1,2,0,PhD,0
+1,6,Bad,0,2,0,High School,0
+1,3,Excellent,0,2,10,High School,1
+1,6,Very Good,0,4,21,High School,0
+7,1,Good,1,1,1,Bachelor's,0
+17,4,Average,1,5,0,High School,0
+15,2,Average,0,2,22,Bachelor's,0
+4,7,Good,0,1,20,High School,1
+2,12,Very Good,1,5,19,Bachelor's,0
+7,10,Very Good,0,2,18,PhD,1
+13,7,Excellent,0,5,15,Master's,0
+9,2,Excellent,1,5,18,PhD,0
+9,2,Bad,0,5,16,PhD,0
+17,3,Average,1,1,7,High School,0
+17,11,Excellent,0,3,5,Bachelor's,0
+8,2,Very Good,1,5,15,Master's,1
+11,0,Good,1,1,0,High School,0
+17,3,Very Good,1,3,23,High School,1
+9,6,Average,1,4,12,High School,0
+16,5,Very Good,1,5,9,PhD,0
+20,3,Bad,0,5,8,Bachelor's,1
+4,6,Average,0,2,15,Bachelor's,0
+4,6,Good,0,3,0,Master's,0
+6,8,Bad,1,2,21,Bachelor's,0
+13,2,Average,0,3,19,Bachelor's,0
+16,7,Good,1,2,17,High School,1
+9,5,Bad,1,1,18,High School,0
+2,6,Bad,0,5,15,PhD,1
+13,5,Average,1,1,9,High School,1
+6,3,Excellent,0,1,0,High School,0
+20,8,Bad,1,2,20,High School,2
+2,12,Bad,1,2,10,High School,0
+8,2,Good,0,4,7,PhD,2
+15,2,Very Good,1,5,23,High School,0
+5,5,Average,0,3,19,Master's,1
+14,7,Average,1,2,18,Master's,0
+12,1,Excellent,0,3,11,Master's,0
+18,2,Excellent,1,4,0,Master's,1
+12,3,Average,0,1,16,High School,1
+9,1,Excellent,0,2,17,Master's,0
+2,2,Good,1,1,14,High School,0
+0,7,Average,0,3,2,PhD,1
+22,2,Excellent,1,5,3,Master's,1
+14,6,Average,1,3,17,Bachelor's,2
+10,7,Very Good,0,2,5,Master's,1
+5,10,Bad,0,3,20,Master's,2
+5,12,Average,0,4,7,High School,1
+7,1,Bad,0,1,22,Master's,0
+8,7,Excellent,0,2,5,Bachelor's,0
+11,7,Bad,1,3,12,High School,1
+4,5,Average,0,3,6,High School,1
+0,3,Very Good,1,1,11,PhD,0
+17,1,Excellent,0,5,7,PhD,0
+10,8,Average,0,1,8,Master's,2
+13,3,Excellent,0,4,14,PhD,0
+14,8,Good,1,4,11,PhD,0
+7,0,Bad,0,3,15,PhD,0
+20,6,Good,1,2,18,High School,0
+17,5,Average,1,3,20,High School,0
+15,3,Very Good,1,1,7,High School,0
+18,4,Excellent,0,5,5,PhD,0
+13,5,Bad,1,5,16,High School,1
+5,6,Excellent,0,1,18,PhD,0
+3,4,Average,1,1,0,High School,1
+4,0,Excellent,0,1,8,High School,1
+19,4,Bad,1,4,24,Bachelor's,0
+5,3,Average,0,4,17,Master's,1
+17,3,Excellent,0,3,23,PhD,0
+17,1,Very Good,0,4,9,Bachelor's,1
+19,1,Average,1,3,1,High School,0
+3,0,Average,1,5,4,PhD,1
+3,6,Very Good,0,2,4,High School,1
+3,11,Good,1,1,0,Master's,0
+3,5,Bad,1,4,3,Bachelor's,0
+0,0,Good,1,4,5,Master's,1
+21,7,Excellent,1,2,18,Bachelor's,1
+0,9,Very Good,1,5,0,High School,0
+11,12,Good,1,1,0,Master's,1
+6,4,Average,1,3,2,Master's,0
+4,0,Excellent,0,5,0,High School,1
+12,4,Excellent,0,4,12,Master's,0
+16,2,Good,1,5,13,PhD,1
+6,8,Good,0,1,13,Bachelor's,0
+6,9,Very Good,0,5,14,Bachelor's,0
+19,1,Bad,0,2,0,Bachelor's,0
+2,10,Good,1,1,18,PhD,0
+4,1,Good,1,1,7,Bachelor's,0
+13,3,Average,1,3,14,High School,0
+15,7,Excellent,1,1,9,Master's,1
+17,7,Bad,1,4,6,PhD,0
+0,1,Average,0,5,15,Bachelor's,0
+10,5,Very Good,1,2,11,High School,0
+5,4,Very Good,0,4,13,Master's,0
+17,3,Good,1,1,14,Master's,0
+3,2,Good,0,3,7,PhD,0
+18,7,Very Good,1,5,15,PhD,0
+4,5,Good,1,4,1,PhD,0
+17,9,Bad,1,2,16,High School,0
+3,7,Good,1,5,10,High School,0
+19,6,Excellent,1,1,8,PhD,0
+19,5,Good,1,4,0,Bachelor's,0
+9,9,Average,0,4,14,Master's,2
+21,6,Bad,1,5,16,Master's,0
+10,9,Average,0,1,20,High School,1
+2,8,Average,1,2,7,Master's,0
+6,4,Excellent,0,1,23,Bachelor's,1
+8,5,Bad,0,4,4,Master's,1
+19,4,Bad,0,3,21,High School,0
+7,12,Bad,0,2,0,High School,2
+1,1,Bad,0,2,10,Bachelor's,0
+12,2,Bad,0,3,4,Bachelor's,0
+20,3,Excellent,1,3,17,Master's,1
+11,5,Good,0,5,14,Master's,1
+1,1,Average,1,2,13,High School,0
+5,11,Bad,1,3,18,Bachelor's,0
+14,8,Good,0,5,17,Bachelor's,0
+17,5,Good,0,5,19,Bachelor's,0
+19,5,Average,1,5,6,Master's,1
+19,0,Excellent,0,1,23,Bachelor's,0
+3,7,Very Good,0,2,10,High School,0
+0,7,Very Good,0,2,12,High School,0
+15,9,Good,0,5,15,Master's,0
+13,1,Average,0,1,5,PhD,0
+6,1,Very Good,0,4,23,Master's,1
+4,11,Good,0,4,22,PhD,2
+8,7,Excellent,1,2,7,Bachelor's,1
+8,10,Very Good,0,5,2,Master's,0
+4,11,Good,1,3,5,High School,1
+18,10,Good,1,3,12,Bachelor's,1
+14,6,Bad,1,4,21,High School,1
+17,6,Excellent,1,4,13,Bachelor's,0
+1,0,Bad,0,4,15,Master's,0
+20,12,Average,1,1,8,PhD,0
+2,2,Bad,1,2,8,Bachelor's,0
+20,2,Bad,1,5,0,PhD,0
+10,9,Very Good,1,4,13,Bachelor's,0
+16,0,Good,1,1,23,High School,0
+10,2,Excellent,0,1,7,High School,1
+3,6,Bad,0,5,7,Bachelor's,0
+6,10,Excellent,1,5,4,PhD,0
+7,5,Bad,0,3,0,Master's,2
+21,9,Average,0,3,18,Master's,2
+2,8,Bad,1,4,5,High School,1
+18,7,Very Good,1,4,8,Master's,2
+2,2,Good,1,2,7,High School,0
+18,8,Average,0,1,4,Master's,2
+14,7,Bad,1,5,16,Bachelor's,0
+17,5,Excellent,0,2,13,High School,0
+2,7,Average,0,1,3,High School,0
+3,5,Average,0,5,5,Bachelor's,0
+18,7,Bad,1,3,17,High School,0
+10,1,Average,0,3,4,Master's,1
+6,8,Excellent,1,2,0,Master's,1
+0,8,Average,1,1,4,High School,0
+6,3,Excellent,1,1,13,Master's,0
+0,4,Bad,1,3,21,PhD,1
+15,8,Good,1,4,0,High School,1
+15,5,Average,0,4,0,Bachelor's,0
+18,4,Good,0,1,16,PhD,1
+9,11,Excellent,0,5,0,High School,0
+7,5,Average,0,3,4,Bachelor's,0
+5,10,Very Good,0,3,0,Master's,2
+16,0,Good,1,3,13,Bachelor's,0
+0,7,Average,1,4,19,PhD,0
+16,5,Good,0,5,19,Master's,1
+14,9,Average,0,4,9,High School,1
+19,8,Bad,0,1,7,Master's,0
+16,3,Good,1,4,9,High School,0
+7,5,Very Good,1,1,3,High School,0
+6,10,Very Good,1,3,6,Bachelor's,1
+13,5,Excellent,0,2,13,Bachelor's,0
+19,12,Average,0,5,2,Bachelor's,0
+9,3,Good,0,3,16,PhD,2
+0,8,Excellent,0,1,11,PhD,0
+3,2,Good,1,2,1,Bachelor's,0
+15,6,Average,0,5,19,PhD,0
+2,7,Very Good,0,2,14,Master's,1
+3,1,Bad,0,5,4,Master's,0
+18,6,Very Good,1,3,18,PhD,0
+20,6,Excellent,1,1,14,PhD,1
+6,1,Bad,0,3,9,Master's,0
+3,4,Excellent,1,1,3,High School,0
+15,8,Average,1,4,25,Master's,0
+18,9,Bad,1,2,18,Master's,0
+10,7,Excellent,1,5,16,PhD,0
+14,6,Average,1,2,18,Master's,0
+4,4,Very Good,0,1,3,PhD,0
+1,10,Average,0,2,10,PhD,0
+8,1,Good,0,3,20,Bachelor's,1
+3,8,Average,1,1,3,Master's,2
+19,6,Average,1,5,1,High School,1
+15,4,Good,1,1,12,Bachelor's,1
+2,8,Excellent,1,5,7,PhD,0
+2,3,Excellent,0,2,0,PhD,2
+21,6,Average,0,5,9,High School,0
+1,4,Good,0,5,14,PhD,2
+3,3,Good,0,3,7,Master's,2
+17,6,Very Good,0,3,3,Bachelor's,1
+10,8,Excellent,0,2,9,PhD,2
+3,7,Bad,1,1,15,PhD,0
+8,2,Excellent,1,5,16,High School,0
+15,7,Excellent,0,5,5,Master's,0
+17,8,Very Good,1,2,16,PhD,0
+16,11,Bad,0,4,2,High School,0
+4,6,Very Good,0,1,18,PhD,1
+11,4,Bad,1,4,14,High School,2
+4,5,Average,0,1,14,High School,0
+15,10,Bad,0,5,6,Master's,1
+6,3,Very Good,0,5,10,PhD,2
+3,3,Excellent,1,4,8,Master's,2
+11,10,Bad,1,3,4,High School,2
+12,8,Bad,1,5,8,Bachelor's,0
+18,3,Good,1,5,16,PhD,2
+6,2,Excellent,0,5,12,Bachelor's,1
+8,4,Average,1,2,12,PhD,0
+1,4,Very Good,1,5,14,Master's,0
+20,6,Average,1,5,14,Master's,1
+13,0,Excellent,0,5,11,Master's,0
+7,7,Bad,1,2,9,Master's,1
+6,8,Bad,1,1,3,Master's,1
+12,2,Excellent,0,3,21,Bachelor's,0
+20,11,Bad,0,3,4,Master's,0
+3,0,Bad,0,4,18,High School,1
+7,7,Bad,0,5,7,High School,0
+13,8,Very Good,1,4,7,Bachelor's,0
+17,1,Very Good,0,1,0,PhD,0
+13,4,Good,1,1,8,High School,0
+12,4,Average,1,1,19,PhD,2
+19,9,Excellent,1,1,1,Bachelor's,0
+17,5,Excellent,1,4,8,PhD,1
+4,3,Excellent,1,1,0,PhD,0
+1,3,Good,0,5,17,PhD,0
+17,2,Very Good,1,2,15,PhD,1
+18,2,Good,1,3,12,Bachelor's,1
+18,3,Excellent,1,1,4,High School,0
+9,0,Average,0,2,5,Master's,0
+5,3,Bad,1,5,0,PhD,0
+13,9,Very Good,1,2,5,High School,0
+12,5,Very Good,0,3,3,High School,1
+3,6,Good,1,4,11,Bachelor's,0
+3,4,Very Good,1,4,13,High School,0
+8,3,Excellent,0,2,0,Bachelor's,0
+14,0,Excellent,1,3,7,PhD,2
+12,4,Good,1,5,1,PhD,2
+4,4,Excellent,1,2,17,Master's,0
+8,10,Average,1,4,21,Master's,1
+2,8,Good,1,3,5,Master's,0
+7,4,Average,0,5,15,High School,0
+11,9,Bad,0,5,11,PhD,1
+22,10,Average,0,4,11,Bachelor's,2
+17,0,Bad,1,3,15,Master's,2
+1,9,Bad,1,5,0,Bachelor's,0
+9,1,Average,1,1,16,Bachelor's,0
+18,2,Good,0,5,21,Master's,1
+15,3,Excellent,1,5,15,PhD,0
+15,4,Excellent,1,5,9,Master's,0
+17,9,Bad,1,4,0,Bachelor's,0
+12,0,Bad,0,2,0,Master's,1
+21,8,Good,0,4,5,Bachelor's,0
+17,8,Very Good,1,4,9,Bachelor's,0
+18,6,Average,1,5,5,Master's,2
+4,6,Bad,1,5,2,High School,0
+9,3,Excellent,0,3,8,Master's,0
+13,0,Good,0,4,20,High School,0
+0,5,Average,0,4,5,Bachelor's,0
+0,2,Good,1,5,6,Bachelor's,0
+15,4,Average,0,2,2,High School,0
+1,6,Average,1,3,11,Bachelor's,1
+17,10,Bad,1,5,16,High School,0
+7,3,Good,0,1,9,High School,2
+15,5,Good,1,5,21,Bachelor's,0
+0,3,Excellent,0,4,8,PhD,0
+16,1,Excellent,1,3,16,High School,0
+9,6,Bad,1,1,12,Master's,0
+6,7,Bad,0,4,13,Master's,1
+5,10,Very Good,1,4,0,Bachelor's,0
+14,7,Excellent,1,4,10,PhD,0
+17,5,Average,1,3,14,Bachelor's,1
+21,4,Good,1,5,8,PhD,2
+5,7,Bad,1,5,11,High School,1
+13,4,Good,1,3,19,High School,0
+7,6,Good,1,1,1,High School,1
+15,5,Very Good,1,3,0,High School,0
+16,8,Excellent,0,1,13,Master's,0
+13,3,Bad,0,4,20,Master's,0
+22,11,Good,1,4,23,Bachelor's,0
+5,12,Bad,1,5,0,PhD,0
+14,9,Average,0,3,20,High School,0
+17,3,Very Good,1,5,2,High School,1
+15,8,Average,0,3,21,PhD,0
+9,7,Bad,0,3,5,PhD,0
+3,9,Bad,0,3,7,Bachelor's,0
+1,8,Excellent,1,5,21,PhD,2
+3,4,Good,1,4,9,High School,0
+12,5,Good,1,3,20,High School,0
+7,0,Average,0,2,14,High School,1
+3,7,Very Good,0,2,16,High School,1
+2,0,Good,0,5,14,High School,0
+21,7,Excellent,1,4,1,Bachelor's,1
+10,1,Average,0,5,15,High School,1
+21,0,Average,0,2,15,Bachelor's,1
+2,6,Excellent,1,5,14,High School,0
+5,2,Very Good,0,1,0,Master's,1
+11,4,Excellent,0,4,0,Master's,0
+3,10,Very Good,1,1,15,Master's,0
+16,8,Excellent,1,1,20,Master's,0
+16,2,Excellent,0,1,4,Bachelor's,0
+0,5,Bad,1,2,0,Bachelor's,0
+19,1,Average,0,1,0,PhD,1
+19,8,Excellent,1,1,5,High School,0
+12,6,Excellent,0,1,10,Master's,0
+19,2,Good,1,5,1,Bachelor's,0
+3,6,Average,0,4,5,High School,0
+0,1,Good,1,2,12,High School,2
+1,10,Average,1,2,21,Bachelor's,0
+17,8,Good,1,2,4,Master's,0
+11,2,Excellent,1,2,11,PhD,0
+5,3,Excellent,1,5,0,High School,0
+13,4,Bad,1,4,6,PhD,0
+1,6,Good,1,3,11,Master's,1
+0,4,Very Good,0,2,7,Master's,2
+1,7,Bad,0,1,16,PhD,0
+9,10,Good,1,2,17,Master's,1
+10,2,Good,1,2,0,High School,1
+11,7,Bad,0,1,20,PhD,1
+11,5,Excellent,0,3,15,Master's,0
+12,1,Good,1,5,11,PhD,0
+13,3,Excellent,0,4,14,High School,0
+16,7,Bad,0,5,10,Master's,1
+1,2,Excellent,1,3,6,High School,1
+21,11,Average,1,2,10,Master's,0
+16,6,Very Good,1,5,15,Bachelor's,0
+2,9,Good,0,4,11,Master's,2
+16,3,Very Good,1,1,6,PhD,1
+9,4,Excellent,1,3,0,Master's,2
+12,8,Good,0,1,11,High School,1
+1,4,Excellent,1,4,19,High School,0
+18,10,Average,0,3,15,Master's,0
+10,4,Bad,0,2,20,PhD,1
+8,8,Good,0,1,0,Bachelor's,0
+6,6,Average,0,5,10,PhD,0
+16,4,Average,0,5,3,Bachelor's,1
+11,2,Good,0,5,13,High School,0
+11,4,Excellent,1,1,10,PhD,1
+3,3,Average,1,4,12,Bachelor's,0
+6,4,Very Good,1,2,1,Master's,2
+9,5,Average,0,3,18,High School,0
+7,4,Excellent,1,3,5,Master's,0
+11,8,Excellent,0,2,7,High School,1
+5,4,Very Good,1,5,21,PhD,0
+16,2,Average,0,2,11,PhD,1
+4,10,Excellent,1,3,22,High School,1
+15,8,Good,0,3,20,High School,0
+6,5,Bad,1,5,7,High School,0
+18,8,Bad,0,4,17,PhD,0
+15,10,Bad,1,2,6,Bachelor's,0
+9,6,Average,0,3,19,Master's,2
+5,12,Very Good,1,1,15,Master's,1
+13,11,Excellent,1,1,15,PhD,1
+19,10,Good,1,1,15,Master's,1
+13,4,Good,0,1,0,High School,0
+5,11,Average,0,3,13,Bachelor's,2
+8,2,Bad,0,2,17,Master's,1
+17,10,Average,0,2,4,Bachelor's,1
+16,5,Very Good,0,3,23,High School,1
+19,3,Very Good,1,4,12,Master's,0
+16,3,Excellent,0,2,10,PhD,1
+11,7,Excellent,1,1,16,Bachelor's,0
+19,3,Very Good,1,1,3,High School,0
+15,7,Very Good,0,2,16,Bachelor's,0
+6,8,Very Good,1,2,9,Master's,2
+14,0,Average,0,2,14,Master's,1
+9,10,Very Good,0,4,15,PhD,1
+21,7,Good,0,5,10,High School,1
+13,4,Bad,1,3,16,High School,0
+8,3,Very Good,0,2,0,PhD,2
+6,10,Bad,0,1,12,PhD,0
+12,11,Average,0,5,18,High School,0
+22,6,Bad,1,4,6,Bachelor's,0
+17,8,Average,0,5,0,Bachelor's,1
+14,0,Good,1,1,17,PhD,1
+15,3,Average,1,3,18,Bachelor's,0
+7,5,Average,0,3,9,High School,0
+4,10,Excellent,1,2,15,Master's,1
+13,5,Very Good,1,3,7,Master's,0
+22,8,Very Good,0,2,3,Bachelor's,1
+6,6,Good,0,1,10,PhD,2
+14,11,Good,0,3,8,PhD,0
+9,0,Very Good,1,5,0,PhD,0
+14,6,Excellent,0,3,8,PhD,1
+12,8,Very Good,1,1,3,PhD,1
+5,5,Excellent,1,1,2,Bachelor's,0
+12,9,Good,1,5,3,Master's,2
+3,7,Bad,1,3,14,Master's,0
+1,7,Good,1,4,6,Bachelor's,0
+11,4,Good,0,3,19,PhD,1
+13,10,Average,0,2,16,Bachelor's,1
+17,11,Average,1,2,17,Master's,0
+5,8,Very Good,1,2,15,Bachelor's,0
+21,9,Bad,0,2,0,PhD,1
+15,11,Excellent,1,5,5,Master's,0
+13,1,Average,1,5,19,Master's,0
+6,5,Bad,0,2,15,PhD,0
+8,9,Good,0,2,13,Bachelor's,0
+17,6,Very Good,1,3,19,Bachelor's,1
+11,8,Bad,1,2,18,High School,2
+10,9,Average,1,1,24,Master's,0
+5,3,Good,1,1,11,High School,1
+6,12,Average,1,2,15,High School,1
+1,2,Average,0,1,7,PhD,0
+0,3,Good,1,2,15,PhD,2
+11,5,Average,1,5,8,High School,0
+4,8,Good,0,1,9,Master's,0
+4,2,Bad,0,5,5,PhD,1
+3,10,Good,0,5,16,High School,0
+10,0,Good,1,1,8,High School,1
+14,5,Very Good,0,2,13,High School,1
+18,3,Good,0,4,16,High School,0
+12,1,Good,0,2,12,High School,1
+14,5,Bad,0,5,1,High School,0
+15,9,Very Good,1,5,17,PhD,0
+16,2,Excellent,1,3,19,Master's,1
+18,6,Bad,1,1,22,High School,2
+10,7,Bad,0,1,16,Bachelor's,0
+19,5,Excellent,0,5,14,PhD,0
+3,6,Good,0,1,23,PhD,1
+4,7,Average,0,3,14,High School,1
+17,8,Very Good,0,4,15,PhD,1
+5,10,Average,0,2,12,High School,0
+9,2,Excellent,1,1,7,Master's,0
+5,7,Bad,1,2,0,Master's,0
+18,1,Bad,0,5,2,PhD,1
+4,0,Very Good,1,2,17,PhD,0
+12,9,Bad,0,4,5,Bachelor's,0
+20,2,Bad,0,3,9,PhD,2
+9,9,Very Good,1,5,10,Bachelor's,0
+0,11,Very Good,0,2,4,Master's,2
+22,7,Excellent,1,3,17,Master's,1
+15,2,Bad,0,4,2,High School,1
+9,3,Bad,0,2,10,Master's,0
+13,10,Excellent,1,1,15,Bachelor's,0
+9,1,Good,0,1,4,PhD,1
+17,8,Good,0,2,0,High School,1
+3,6,Good,0,3,9,Bachelor's,1
+12,0,Excellent,1,5,7,PhD,0
+16,5,Bad,0,2,0,High School,1
+2,6,Excellent,0,3,0,Master's,1
+17,8,Excellent,0,4,0,Bachelor's,1
+7,11,Good,1,3,3,PhD,1
+4,3,Average,1,1,6,High School,1
+4,8,Bad,1,1,14,High School,1
+4,5,Good,1,3,6,Master's,0
+12,7,Average,1,5,12,PhD,0
+5,5,Average,0,2,6,Master's,0
+18,2,Very Good,1,3,21,Master's,0
+12,3,Bad,1,5,15,PhD,0
+3,5,Average,0,4,3,PhD,0
+8,9,Good,1,5,0,PhD,0
+5,4,Very Good,0,1,10,Bachelor's,0
+12,7,Bad,1,2,12,PhD,1
+15,2,Excellent,0,5,13,High School,2
+15,0,Good,0,5,3,Master's,0
+6,7,Average,1,1,19,Bachelor's,2
+16,7,Average,1,5,6,PhD,0
+10,5,Good,0,4,6,Bachelor's,0
+16,4,Average,0,3,12,PhD,0
+14,9,Very Good,0,4,16,Bachelor's,0
+19,10,Bad,0,1,15,Master's,1
+13,10,Very Good,0,3,10,Master's,1
+14,10,Average,0,4,0,High School,0
+9,7,Excellent,0,4,18,High School,0
+13,6,Bad,1,4,16,PhD,0
+12,6,Bad,0,4,13,Master's,0
+2,8,Good,1,4,20,Bachelor's,0
+8,9,Good,1,5,16,Bachelor's,0
+7,3,Excellent,0,3,5,Bachelor's,1
+3,9,Bad,0,1,20,High School,2
+13,6,Excellent,1,4,9,Bachelor's,0
+8,10,Good,0,4,5,High School,2
+12,4,Good,0,4,13,High School,0
+18,4,Bad,1,4,2,PhD,0
+18,9,Very Good,1,5,19,Bachelor's,0
+10,5,Average,1,5,13,Bachelor's,1
+4,4,Good,0,2,3,Master's,2
+1,1,Good,0,1,8,PhD,1
+2,9,Very Good,1,4,6,Master's,0
+7,3,Very Good,0,4,18,PhD,1
+8,5,Excellent,1,5,7,Bachelor's,0
+7,6,Excellent,0,5,7,High School,1
+7,1,Average,1,2,19,High School,0
+6,4,Average,0,4,8,High School,0
+7,3,Bad,1,4,1,High School,0
+8,5,Excellent,0,4,14,High School,1
+13,7,Good,0,2,3,Master's,0
+0,8,Excellent,1,5,17,PhD,1
+0,1,Good,0,2,14,Bachelor's,0
+14,11,Very Good,0,1,14,Master's,1
+3,6,Excellent,1,1,3,PhD,1
+3,1,Very Good,0,5,0,High School,1
+14,5,Average,0,3,14,PhD,0
+10,5,Average,0,3,7,PhD,0
+1,8,Bad,1,2,8,High School,0
+1,3,Excellent,1,2,13,High School,1
+3,4,Very Good,1,4,21,High School,0
+3,2,Good,1,2,8,Bachelor's,0
+14,4,Average,1,5,4,High School,0
+12,3,Average,0,2,14,Bachelor's,0
+2,5,Good,0,2,17,High School,1
+0,12,Very Good,1,5,16,Bachelor's,0
+4,8,Very Good,0,2,20,PhD,1
+13,4,Excellent,0,3,13,Master's,0
+5,0,Excellent,0,3,23,PhD,0
+8,1,Bad,0,5,16,PhD,0
+16,2,Average,1,2,9,High School,0
+17,7,Excellent,1,3,7,Bachelor's,0
+10,5,Very Good,0,4,17,Master's,1
+12,2,Good,0,2,8,High School,0
+18,5,Very Good,1,2,17,High School,1
+7,5,Average,0,5,10,High School,0
+16,7,Very Good,0,4,12,PhD,0
+20,3,Bad,0,5,8,Bachelor's,1
+2,5,Average,1,2,15,Bachelor's,0
+6,3,Good,1,2,2,Master's,0
+8,4,Bad,0,1,20,Bachelor's,0
+15,1,Average,0,2,21,Bachelor's,0
+14,5,Good,0,2,18,High School,1
+13,8,Bad,0,1,11,High School,0
+2,3,Bad,0,5,8,PhD,1
+14,7,Average,0,1,17,High School,1
+5,3,Excellent,1,1,0,High School,0
+17,11,Bad,1,2,21,High School,2
+1,10,Bad,0,4,4,High School,0
+8,1,Good,1,4,6,PhD,2
+14,0,Very Good,0,5,22,High School,0
+8,7,Average,0,2,19,Master's,1
+13,11,Average,1,2,9,Master's,0
+11,0,Excellent,1,4,16,Master's,0
+21,1,Excellent,0,5,0,Master's,1
+11,6,Average,0,1,10,High School,1
+9,2,Excellent,1,2,14,Master's,0
+1,0,Good,1,2,12,High School,0
+1,7,Average,0,3,1,PhD,1
+19,0,Excellent,0,4,5,Master's,1
+11,10,Average,0,1,16,Bachelor's,2
+9,7,Very Good,1,2,7,Master's,1
+4,10,Bad,0,3,21,Master's,2
+5,9,Average,1,5,11,High School,1
+7,3,Bad,0,2,20,Master's,0
+9,5,Excellent,1,2,6,Bachelor's,0
+7,4,Bad,1,4,9,High School,1
+3,4,Average,1,2,12,High School,1
+2,2,Very Good,1,1,11,PhD,0
+18,3,Excellent,0,4,14,PhD,0
+12,8,Average,1,1,6,Master's,2
+14,3,Excellent,1,5,18,PhD,0
+14,8,Good,1,3,7,PhD,0
+7,0,Bad,0,4,18,PhD,0
+21,9,Good,0,4,21,High School,0
+19,5,Average,0,2,23,High School,0
+18,7,Very Good,0,1,8,High School,0
+19,3,Excellent,0,5,1,PhD,0
+13,5,Bad,0,5,14,High School,1
+6,9,Excellent,1,2,23,PhD,0
+0,7,Average,1,1,1,High School,1
+2,1,Excellent,1,3,4,High School,1
+16,8,Bad,0,2,20,Bachelor's,0
+7,0,Average,1,5,11,Master's,1
+18,4,Excellent,1,2,16,PhD,0
+19,0,Very Good,0,2,7,Bachelor's,1
+17,4,Average,1,2,6,High School,0
+1,4,Average,0,5,8,PhD,1
+2,5,Very Good,1,1,9,High School,1
+7,10,Good,0,1,3,Master's,0
+2,5,Bad,0,4,1,Bachelor's,0
+3,3,Good,0,5,10,Master's,1
+20,6,Excellent,1,2,16,Bachelor's,1
+3,5,Very Good,1,3,3,High School,0
+10,12,Good,0,3,0,Master's,1
+5,2,Average,0,2,6,Master's,0
+6,0,Excellent,1,4,7,High School,1
+12,4,Excellent,1,5,6,Master's,0
+19,2,Good,0,5,18,PhD,1
+8,11,Good,1,1,10,Bachelor's,0
+6,7,Very Good,1,3,20,Bachelor's,0
+20,0,Bad,1,4,5,Bachelor's,0
+1,8,Good,0,1,19,PhD,0
+5,2,Good,0,1,14,Bachelor's,0
+9,6,Average,1,3,13,High School,0
+14,10,Excellent,0,1,4,Master's,1
+14,4,Bad,1,3,0,PhD,0
+0,1,Average,1,5,15,Bachelor's,0
+9,7,Very Good,0,1,4,High School,0
+5,4,Very Good,0,4,17,Master's,0
+15,3,Good,0,1,14,Master's,0
+2,1,Good,1,5,14,PhD,0
+19,8,Very Good,1,4,7,PhD,0
+4,5,Good,0,3,3,PhD,0
+17,7,Bad,0,2,7,High School,0
+5,7,Good,0,5,6,High School,0
+17,8,Excellent,1,3,14,PhD,0
+18,3,Good,1,3,2,Bachelor's,0
+9,6,Average,1,4,5,Master's,2
+19,3,Bad,0,4,20,Master's,0
+9,8,Average,0,2,12,High School,1
+1,8,Average,1,2,13,Master's,0
+6,5,Excellent,0,3,17,Bachelor's,1
+9,3,Bad,0,4,0,Master's,1
+19,1,Bad,0,2,17,High School,0
+7,8,Bad,0,1,4,High School,2
+0,2,Bad,1,2,6,Bachelor's,0
+11,1,Bad,0,1,10,Bachelor's,0
+20,7,Excellent,1,4,19,Master's,1
+12,4,Good,1,4,17,Master's,1
+1,4,Average,0,3,5,High School,0
+8,10,Bad,1,5,18,Bachelor's,0
+16,4,Good,1,5,14,Bachelor's,0
+14,5,Good,0,5,17,Bachelor's,0
+21,4,Average,1,5,1,Master's,1
+19,3,Excellent,1,1,19,Bachelor's,0
+1,6,Very Good,1,3,6,High School,0
+1,8,Very Good,1,2,7,High School,0
+16,12,Good,1,4,18,Master's,0
+13,0,Average,1,1,6,PhD,0
+3,0,Very Good,1,5,21,Master's,1
+7,8,Good,1,5,21,PhD,2
+10,7,Excellent,0,4,5,Bachelor's,1
+8,9,Very Good,0,5,1,Master's,0
+2,9,Good,0,4,7,High School,1
+18,10,Good,1,3,15,Bachelor's,1
+17,5,Bad,1,5,14,High School,1
+18,6,Excellent,1,4,15,Bachelor's,0
+3,0,Bad,0,5,18,Master's,0
+18,12,Average,0,1,10,PhD,0
+1,2,Bad,0,2,5,Bachelor's,0
+22,2,Bad,1,5,1,PhD,0
+11,6,Very Good,0,3,16,Bachelor's,0
+18,2,Good,0,3,19,High School,0
+7,4,Excellent,1,1,3,High School,1
+6,4,Bad,0,4,10,Bachelor's,0
+8,8,Excellent,1,3,10,PhD,0
+8,5,Bad,0,5,4,Master's,2
+21,9,Average,1,2,18,Master's,2
+3,8,Bad,1,5,4,High School,1
+16,6,Very Good,1,4,15,Master's,2
+5,4,Good,1,2,6,High School,0
+18,12,Average,1,3,5,Master's,2
+13,6,Bad,0,5,15,Bachelor's,0
+18,1,Excellent,1,2,18,High School,0
+1,7,Average,1,2,4,High School,0
+5,5,Average,1,4,6,Bachelor's,0
+17,8,Bad,1,3,12,High School,0
+8,1,Average,0,2,2,Master's,1
+5,10,Excellent,1,1,0,Master's,1
+2,8,Average,0,1,5,High School,0
+3,1,Excellent,1,2,12,Master's,0
+3,5,Bad,1,4,19,PhD,1
+12,10,Good,0,4,7,High School,1
+17,7,Average,0,3,5,Bachelor's,0
+21,3,Good,0,2,13,PhD,1
+10,11,Excellent,1,3,0,High School,0
+9,6,Average,0,1,7,Bachelor's,0
+3,9,Very Good,1,4,0,Master's,2
+19,2,Good,0,4,10,Bachelor's,0
+2,8,Average,0,3,17,PhD,0
+15,4,Good,1,4,16,Master's,1
+10,9,Average,0,5,5,High School,1
+19,10,Bad,0,3,11,Master's,0
+13,1,Good,1,3,16,High School,0
+4,5,Very Good,1,2,12,High School,0
+4,11,Very Good,1,3,7,Bachelor's,1
+11,4,Excellent,0,1,10,Bachelor's,0
+18,10,Average,0,4,0,Bachelor's,0
+8,4,Good,0,3,18,PhD,2
+2,7,Excellent,0,1,14,PhD,0
+0,2,Good,0,4,7,Bachelor's,0
+14,6,Average,1,3,25,PhD,0
+0,4,Very Good,0,1,14,Master's,1
+7,0,Bad,1,4,2,Master's,0
+16,6,Very Good,0,3,17,PhD,0
+20,8,Excellent,1,2,23,PhD,1
+2,0,Bad,0,4,12,Master's,0
+5,4,Excellent,0,2,12,High School,0
+17,8,Average,1,2,21,Master's,0
+16,11,Bad,0,2,17,Master's,0
+12,4,Excellent,1,3,18,PhD,0
+13,8,Average,0,2,11,Master's,0
+5,4,Very Good,0,2,11,PhD,0
+1,8,Average,1,1,6,PhD,0
+7,0,Good,0,1,19,Bachelor's,1
+5,9,Average,1,1,3,Master's,2
+19,4,Average,0,4,0,High School,1
+14,7,Good,0,1,12,Bachelor's,1
+4,9,Excellent,0,5,16,PhD,0
+0,0,Excellent,0,1,1,PhD,2
+19,3,Average,0,5,8,High School,0
+0,5,Good,0,5,23,PhD,2
+5,3,Good,0,2,0,Master's,2
+16,6,Very Good,1,3,4,Bachelor's,1
+11,8,Excellent,0,1,5,PhD,2
+3,7,Bad,0,1,24,PhD,0
+8,3,Excellent,0,5,20,High School,0
+16,6,Excellent,1,4,13,Master's,0
+16,6,Very Good,1,2,18,PhD,0
+13,11,Bad,0,5,2,High School,0
+3,7,Very Good,0,1,14,PhD,1
+10,2,Bad,0,3,7,High School,2
+0,2,Average,1,2,7,High School,0
+19,10,Bad,0,3,8,Master's,1
+8,3,Very Good,1,5,7,PhD,2
+2,3,Excellent,0,5,13,Master's,2
+11,10,Bad,1,4,2,High School,2
+10,4,Bad,1,5,0,Bachelor's,0
+17,0,Good,0,4,19,PhD,2
+9,4,Excellent,0,3,10,Bachelor's,1
+8,6,Average,0,1,6,PhD,0
+2,4,Very Good,0,5,18,Master's,0
+19,6,Average,0,5,10,Master's,1
+11,2,Excellent,0,5,12,Master's,0
+6,10,Bad,0,4,10,Master's,1
+4,7,Bad,1,1,10,Master's,1
+11,1,Excellent,0,4,15,Bachelor's,0
+22,11,Bad,0,2,4,Master's,0
+2,2,Bad,1,3,14,High School,1
+7,6,Bad,0,4,6,High School,0
+12,12,Very Good,0,3,12,Bachelor's,0
+16,5,Very Good,0,2,0,PhD,0
+15,6,Good,0,3,9,High School,0
+13,4,Average,1,1,18,PhD,2
+17,10,Excellent,1,3,1,Bachelor's,0
+15,6,Excellent,0,4,9,PhD,1
+1,2,Excellent,0,1,0,PhD,0
+0,1,Good,1,5,14,PhD,0
+18,3,Very Good,0,2,10,PhD,1
+18,2,Good,1,2,5,Bachelor's,1
+19,2,Excellent,1,1,7,High School,0
+10,0,Average,1,4,5,Master's,0
+8,0,Bad,0,5,5,PhD,0
+15,9,Very Good,0,2,12,High School,0
+10,8,Very Good,0,4,3,High School,1
+3,5,Good,1,4,10,Bachelor's,0
+2,5,Very Good,0,4,13,High School,0
+10,5,Excellent,0,2,0,Bachelor's,0
+10,0,Excellent,1,3,3,PhD,2
+10,5,Good,0,5,0,PhD,2
+5,2,Excellent,0,1,10,Master's,0
+6,10,Average,0,4,22,Master's,1
+4,10,Good,1,3,7,Master's,0
+5,4,Average,0,4,15,High School,0
+13,9,Bad,1,4,11,PhD,1
+18,12,Average,1,5,17,Bachelor's,2
+16,2,Bad,1,4,17,Master's,2
+2,7,Bad,0,3,3,Bachelor's,0
+10,0,Average,0,2,12,Bachelor's,0
+22,6,Good,0,5,25,Master's,1
+14,0,Excellent,1,4,23,PhD,0
+13,4,Excellent,1,5,14,Master's,0
+18,11,Bad,0,2,4,Bachelor's,0
+8,3,Bad,1,3,7,Master's,1
+21,7,Good,0,4,3,Bachelor's,0
+19,9,Very Good,0,5,7,Bachelor's,0
+19,4,Average,0,4,3,Master's,2
+4,5,Bad,0,5,0,High School,0
+10,4,Excellent,0,2,2,Master's,0
+11,0,Good,0,4,14,High School,0
+3,4,Average,0,4,0,Bachelor's,0
+0,4,Good,1,5,8,Bachelor's,0
+16,5,Average,0,1,0,High School,0
+1,8,Average,1,1,10,Bachelor's,1
+15,11,Bad,1,4,19,High School,0
+7,2,Good,0,2,9,High School,2
+12,1,Good,1,5,22,Bachelor's,0
+0,1,Excellent,1,5,4,PhD,0
+18,2,Excellent,1,3,13,High School,0
+8,9,Bad,0,2,16,Master's,0
+7,8,Bad,0,5,13,Master's,1
+1,10,Very Good,0,5,0,Bachelor's,0
+10,11,Excellent,0,4,11,PhD,0
+14,3,Average,0,2,7,Bachelor's,1
+17,3,Good,1,4,9,PhD,2
+4,7,Bad,1,5,4,High School,1
+16,7,Good,0,3,23,High School,0
+5,3,Good,1,1,5,High School,1
+16,1,Very Good,1,3,3,High School,0
+15,8,Excellent,1,2,13,Master's,0
+16,4,Bad,1,5,12,Master's,0
+18,11,Good,0,3,20,Bachelor's,0
+3,9,Bad,0,5,4,PhD,0
+10,8,Average,0,5,20,High School,0
+14,4,Very Good,1,5,0,High School,1
+14,10,Average,1,2,19,PhD,0
+8,10,Bad,0,5,0,PhD,0
+6,9,Bad,0,1,13,Bachelor's,0
+0,8,Excellent,1,3,15,PhD,2
+3,2,Good,0,5,11,High School,0
+8,7,Good,0,2,21,High School,0
+3,0,Average,1,3,15,High School,1
+3,6,Very Good,1,1,20,High School,1
+1,0,Good,0,5,20,High School,0
+20,11,Excellent,1,5,9,Bachelor's,1
+8,3,Average,0,4,13,High School,1
+19,3,Average,1,2,9,Bachelor's,1
+2,5,Excellent,1,4,12,High School,0
+5,2,Very Good,0,1,5,Master's,1
+15,5,Excellent,1,5,3,Master's,0
+3,9,Very Good,0,2,14,Master's,0
+15,8,Excellent,1,2,11,Master's,0
+14,3,Excellent,0,1,3,Bachelor's,0
+0,9,Bad,1,1,0,Bachelor's,0
+18,2,Average,1,1,3,PhD,1
+21,6,Excellent,0,1,2,High School,0
+14,6,Excellent,1,2,18,Master's,0
+16,1,Good,0,3,5,Bachelor's,0
+1,8,Average,1,4,10,High School,0
+2,1,Good,1,2,5,High School,2
+2,10,Average,0,3,23,Bachelor's,0
+20,9,Good,1,3,0,Master's,0
+10,5,Excellent,1,2,3,PhD,0
+5,0,Excellent,0,4,5,High School,0
+12,4,Bad,1,5,1,PhD,0
+1,7,Good,0,5,12,Master's,1
+0,5,Very Good,0,2,6,Master's,2
+2,6,Bad,0,1,18,PhD,0
+6,7,Good,1,3,24,Master's,1
+9,0,Good,1,1,0,High School,1
+13,5,Bad,0,1,17,PhD,1
+11,7,Excellent,1,5,17,Master's,0
+11,3,Good,0,4,13,PhD,0
+12,3,Excellent,1,3,16,High School,0
+15,7,Bad,0,5,18,Master's,1
+4,0,Excellent,0,3,2,High School,1
+18,11,Average,1,1,9,Master's,0
+16,7,Very Good,0,4,13,Bachelor's,0
+1,8,Good,0,5,8,Master's,2
+18,3,Very Good,1,2,12,PhD,1
+6,8,Excellent,0,2,0,Master's,2
+8,6,Good,0,1,12,High School,1
+3,5,Excellent,1,5,15,High School,0
+21,9,Average,0,3,18,Master's,0
+9,4,Bad,0,2,14,PhD,1
+7,9,Good,0,1,0,Bachelor's,0
+3,8,Average,0,5,9,PhD,0
+20,3,Average,0,4,5,Bachelor's,1
+12,6,Good,0,4,11,High School,0
+11,4,Excellent,0,2,6,PhD,1
+5,4,Average,0,4,9,Bachelor's,0
+2,2,Very Good,1,4,0,Master's,2
+10,6,Average,0,3,21,High School,0
+7,4,Excellent,0,2,8,Master's,0
+9,9,Excellent,1,3,6,High School,1
+5,4,Very Good,0,4,15,PhD,0
+19,6,Average,0,4,8,PhD,1
+5,12,Excellent,0,4,16,High School,1
+15,10,Good,0,3,15,High School,0
+5,6,Bad,0,5,8,High School,0
+18,5,Bad,0,5,11,PhD,0
+18,9,Bad,1,3,10,Bachelor's,0
+5,7,Average,1,4,20,Master's,2
+5,8,Very Good,1,2,13,Master's,1
+13,12,Excellent,1,1,13,PhD,1
+18,7,Good,1,1,14,Master's,1
+11,2,Good,0,1,0,High School,0
+5,7,Average,0,2,7,Bachelor's,2
+9,1,Bad,0,3,18,Master's,1
+17,8,Average,0,2,8,Bachelor's,1
+15,5,Very Good,0,4,20,High School,1
+22,5,Very Good,1,5,11,Master's,0
+16,5,Excellent,1,2,7,PhD,1
+13,6,Excellent,0,2,9,Bachelor's,0
+19,4,Very Good,0,1,3,High School,0
+19,7,Very Good,0,3,22,Bachelor's,0
+2,12,Very Good,1,2,16,Master's,2
+12,3,Average,1,3,14,Master's,1
+10,9,Very Good,0,5,9,PhD,1
+21,9,Good,1,5,10,High School,1
+11,6,Bad,0,3,24,High School,0
+7,4,Very Good,1,3,3,PhD,2
+8,9,Bad,1,1,2,PhD,0
+14,11,Average,0,5,20,High School,0
+19,5,Bad,1,4,5,Bachelor's,0
+17,7,Average,1,4,1,Bachelor's,1
+17,0,Good,0,1,21,PhD,1
+15,3,Average,1,4,11,Bachelor's,0
+4,4,Average,0,1,7,High School,0
+4,8,Excellent,1,1,15,Master's,1
+10,5,Very Good,0,3,5,Master's,0
+21,7,Very Good,0,2,12,Bachelor's,1
+5,9,Good,1,1,13,PhD,2
+16,8,Good,1,3,8,PhD,0
+9,0,Very Good,0,4,6,PhD,0
+12,4,Excellent,1,1,0,PhD,1
+8,8,Very Good,1,1,7,PhD,1
+9,1,Excellent,1,1,0,Bachelor's,0
+16,9,Good,0,3,13,Master's,2
+3,3,Bad,0,4,13,Master's,0
+5,10,Good,0,5,13,Bachelor's,0
+11,3,Good,1,3,17,PhD,1
+13,10,Average,1,4,15,Bachelor's,1
+18,8,Average,0,2,11,Master's,0

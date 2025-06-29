@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promotion Prediction Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff; /* Light Blue background */
+            color: #333; /* Dark text color */
+            text-align: center;
+            padding: 50px;
+        }
+
+        .result-container {
+            background-color: #ffffff; /* White background for the result box */
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            width: 50%;
+            margin: 0 auto;
+        }
+
+        h1 {
+            font-size: 36px;
+            color: #5a9bcf; /* Soft Blue color */
+        }
+
+        h2 {
+            font-size: 28px;
+            color: #28a745; /* Green color for positive prediction */
+        }
+
+        .error {
+            color: #dc3545; /* Red color for error messages */
+        }
+
+        .back-button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #5a9bcf; /* Blue button */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+
+        .back-button:hover {
+            background-color: #4e8cb8;
+        }
+    </style>
+</head>
+<body>
+    <div class="result-container">
+        <h1>Promotion Prediction Result</h1>
+        {% if prediction is not none %}
+            <h2>Prediction: 
+                {% if prediction == 0 %}
+                    Not Promoted
+                {% elif prediction == 1 %}
+                    Promoted
+                {% else %}
+                    Other
+                {% endif %}
+            </h2>
+        {% else %}
+            <p class="error">Error: Could not generate prediction. Please try again.</p>
+        {% endif %}
+        <a href="/" class="back-button">Go Back</a>
+    </div>
+</body>
+</html>
