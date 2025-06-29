@@ -68,6 +68,7 @@ Then open your browser and go to:
  http://127.0.0.1:5000
 
 ### 📁 Project Structure
+```bash 
 ├── app.py                        # Flask web app
 ├── train_model.py                # Script to train and save the model
 ├── employee_promotion_3000_rows.csv
@@ -79,6 +80,8 @@ Then open your browser and go to:
 └── templates/
     ├── index.html                # Input form
     └── result.html               # Result display
+
+```
 
 ### 📄 License
 This project is licensed under the MIT License.
